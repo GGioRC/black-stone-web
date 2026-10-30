@@ -1,0 +1,412 @@
+{
+  "table": "4.6",
+  "page": 179,
+  "results": {
+    "1": {
+      "result": "Sack (Fabric)",
+      "page": 179
+    },
+    "2": {
+      "result": "Sack (Fabric)",
+      "page": 179
+    },
+    "3": {
+      "result": "Ropes (Fabric)",
+      "page": 179
+    },
+    "4": {
+      "result": "Ropes (Fabric)",
+      "page": 179
+    },
+    "5": {
+      "result": "Bedroll (Fabric)",
+      "page": 179
+    },
+    "6": {
+      "result": "Bedroll (Fabric)",
+      "page": 179
+    },
+    "7": {
+      "result": "Tent (Fabric)",
+      "page": 179
+    },
+    "8": {
+      "result": "Tent (Fabric)",
+      "page": 179
+    },
+    "9": {
+      "result": "Pants (Fabric)",
+      "page": 179
+    },
+    "10": {
+      "result": "Pants (Fabric)",
+      "page": 179
+    },
+    "11": {
+      "result": "Shirt (Fabric)",
+      "page": 179
+    },
+    "12": {
+      "result": "Shirt (Fabric)",
+      "page": 179
+    },
+    "13": {
+      "result": "Cap (Fabric)",
+      "page": 179
+    },
+    "14": {
+      "result": "Cap (Fabric)",
+      "page": 179
+    },
+    "15": {
+      "result": "Backpack (Fabric)",
+      "page": 179
+    },
+    "16": {
+      "result": "Backpack (Fabric)",
+      "page": 179
+    },
+    "17": {
+      "result": "Robes (Fabric)",
+      "page": 179
+    },
+    "18": {
+      "result": "Robes (Fabric)",
+      "page": 179
+    },
+    "19": {
+      "result": "Hat (Fabric)",
+      "page": 179
+    },
+    "20": {
+      "result": "Hat (Fabric)",
+      "page": 179
+    },
+    "21": {
+      "result": "Jacket (Fabric)",
+      "page": 179
+    },
+    "22": {
+      "result": "Jacket (Fabric)",
+      "page": 179
+    },
+    "23": {
+      "result": "Doublet (Fabric)",
+      "page": 179
+    },
+    "24": {
+      "result": "Doublet (Fabric)",
+      "page": 179
+    },
+    "25": {
+      "result": "Skirt (Fabric)",
+      "page": 179
+    },
+    "26": {
+      "result": "Skirt (Fabric)",
+      "page": 179
+    },
+    "27": {
+      "result": "Scarf (Fabric)",
+      "page": 179
+    },
+    "28": {
+      "result": "Scarf (Fabric)",
+      "page": 179
+    },
+    "29": {
+      "result": "Dress (Fabric)",
+      "page": 179
+    },
+    "30": {
+      "result": "Dress (Fabric)",
+      "page": 179
+    },
+    "31": {
+      "result": "Trousers (Fabric)",
+      "page": 179
+    },
+    "32": {
+      "result": "Trousers (Fabric)",
+      "page": 179
+    },
+    "33": {
+      "result": "Blanket (Fabric)",
+      "page": 179
+    },
+    "34": {
+      "result": "Blanket (Fabric)",
+      "page": 179
+    },
+    "35": {
+      "result": "Sack (Leather)",
+      "page": 179
+    },
+    "36": {
+      "result": "Sack (Leather)",
+      "page": 179
+    },
+    "37": {
+      "result": "Backpack (Leather)",
+      "page": 179
+    },
+    "38": {
+      "result": "Backpack (Leather)",
+      "page": 179
+    },
+    "39": {
+      "result": "Pouch (Leather)",
+      "page": 179
+    },
+    "40": {
+      "result": "Pouch (Leather)",
+      "page": 179
+    },
+    "41": {
+      "result": "Tent (Leather)",
+      "page": 179
+    },
+    "42": {
+      "result": "Tent (Leather)",
+      "page": 179
+    },
+    "43": {
+      "result": "Gloves (Leather)",
+      "page": 179
+    },
+    "44": {
+      "result": "Gloves (Leather)",
+      "page": 179
+    },
+    "45": {
+      "result": "Shoes (Leather)",
+      "page": 179
+    },
+    "46": {
+      "result": "Shoes (Leather)",
+      "page": 179
+    },
+    "47": {
+      "result": "Shirt (Leather)",
+      "page": 179
+    },
+    "48": {
+      "result": "Shirt (Leather)",
+      "page": 179
+    },
+    "49": {
+      "result": "Boots (Leather)",
+      "page": 179
+    },
+    "50": {
+      "result": "Boots (Leather)",
+      "page": 179
+    },
+    "51": {
+      "result": "Waterskin (Leather)",
+      "page": 179
+    },
+    "52": {
+      "result": "Waterskin (Leather)",
+      "page": 179
+    },
+    "53": {
+      "result": "Pants (Leather)",
+      "page": 179
+    },
+    "54": {
+      "result": "Pants (Leather)",
+      "page": 179
+    },
+    "55": {
+      "result": "Pouch (Leather)",
+      "page": 179
+    },
+    "56": {
+      "result": "Pouch (Leather)",
+      "page": 179
+    },
+    "57": {
+      "result": "Cap (Leather)",
+      "page": 179
+    },
+    "58": {
+      "result": "Cap (Leather)",
+      "page": 179
+    },
+    "59": {
+      "result": "Jacket (Leather)",
+      "page": 179
+    },
+    "60": {
+      "result": "Jacket (Leather)",
+      "page": 179
+    },
+    "61": {
+      "result": "Doublet (Leather)",
+      "page": 179
+    },
+    "62": {
+      "result": "Doublet (Leather)",
+      "page": 179
+    },
+    "63": {
+      "result": "Skirt (Leather)",
+      "page": 179
+    },
+    "64": {
+      "result": "Skirt (Leather)",
+      "page": 179
+    },
+    "65": {
+      "result": "Robe (Feathers)",
+      "page": 179
+    },
+    "66": {
+      "result": "Robe (Feathers)",
+      "page": 179
+    },
+    "67": {
+      "result": "Pants (Fur)",
+      "page": 179
+    },
+    "68": {
+      "result": "Pants (Fur)",
+      "page": 179
+    },
+    "69": {
+      "result": "Coat (Fur)",
+      "page": 179
+    },
+    "70": {
+      "result": "Coat (Fur)",
+      "page": 179
+    },
+    "71": {
+      "result": "Robe (Fur)",
+      "page": 179
+    },
+    "72": {
+      "result": "Robe (Fur)",
+      "page": 179
+    },
+    "73": {
+      "result": "Trousers (Silk)",
+      "page": 179
+    },
+    "74": {
+      "result": "Trousers (Silk)",
+      "page": 179
+    },
+    "75": {
+      "result": "Rope (Silk)",
+      "page": 179
+    },
+    "76": {
+      "result": "Rope (Silk)",
+      "page": 179
+    },
+    "77": {
+      "result": "Robes (Silk)",
+      "page": 179
+    },
+    "78": {
+      "result": "Robes (Silk)",
+      "page": 179
+    },
+    "79": {
+      "result": "Shirt (Silk)",
+      "page": 179
+    },
+    "80": {
+      "result": "Shirt (Silk)",
+      "page": 179
+    },
+    "81": {
+      "result": "Pants (Silk)",
+      "page": 179
+    },
+    "82": {
+      "result": "Pants (Silk)",
+      "page": 179
+    },
+    "83": {
+      "result": "Gloves (Silk)",
+      "page": 179
+    },
+    "84": {
+      "result": "Gloves (Silk)",
+      "page": 179
+    },
+    "85": {
+      "result": "Dress (Silk)",
+      "page": 179
+    },
+    "86": {
+      "result": "Dress (Silk)",
+      "page": 179
+    },
+    "87": {
+      "result": "Rope (Seide)",
+      "page": 179
+    },
+    "88": {
+      "result": "Rope (Seide)",
+      "page": 179
+    },
+    "89": {
+      "result": "Pants (Seide)",
+      "page": 179
+    },
+    "90": {
+      "result": "Pants (Seide)",
+      "page": 179
+    },
+    "91": {
+      "result": "Backpack (Seide)",
+      "page": 179
+    },
+    "92": {
+      "result": "Backpack (Seide)",
+      "page": 179
+    },
+    "93": {
+      "result": "Jacket (Seide)",
+      "page": 179
+    },
+    "94": {
+      "result": "Jacket (Seide)",
+      "page": 179
+    },
+    "95": {
+      "result": "Dress (Seide)",
+      "page": 179
+    },
+    "96": {
+      "result": "Dress (Seide)",
+      "page": 179
+    },
+    "97": {
+      "result": "Robe (Angel's feathers)",
+      "page": 179
+    },
+    "98": {
+      "result": "Robe (Angel's feathers)",
+      "page": 179
+    },
+    "99": {
+      "result": "*Magical clothing",
+      "page": 179
+    },
+    "100": {
+      "result": "*Magical clothing",
+      "page": 179
+    }
+  },
+  "special": {
+    "*Magical clothing": {
+      "en": "Roll again on table 4.6 to determine the type of clothing. Its magical properties are not specified here.",
+      "es": "Vuelve a tirar en la tabla 4.6 para determinar la prenda. Aquí no se especifican sus propiedades mágicas."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "table": "3.8",
+  "die": "d10",
+  "page": 120,
+  "results": {
+    "1": {
+      "result": "Hyena",
+      "page": 120
+    },
+    "2": {
+      "result": "Lion",
+      "page": 120
+    },
+    "3": {
+      "result": "Goat",
+      "page": 120
+    },
+    "4": {
+      "result": "Goose",
+      "page": 120
+    },
+    "5": {
+      "result": "Donkey",
+      "page": 120
+    },
+    "6": {
+      "result": "Monkey",
+      "page": 120
+    },
+    "7": {
+      "result": "Baboon",
+      "page": 120
+    },
+    "8": {
+      "result": "Crocodile",
+      "page": 120
+    },
+    "9": {
+      "result": "Elephant",
+      "page": 120
+    },
+    "10": {
+      "result": "Snake",
+      "page": 120
+    }
+  },
+  "note": {
+    "en": "Roll 1d10 twice and reroll duplicate results to locate the two floor trapdoors. Printed 0 is the tenth face (10); these are temple locations, not attacking traps.",
+    "es": "Tira 1d10 dos veces y repite duplicados para ubicar las dos trampillas. El 0 impreso es la décima cara (10); son ubicaciones de templos, no trampas que ataquen."
+  },
+  "special": {
+    "Hyena": {
+      "en": "Trapdoor located at the Hyena temple.",
+      "es": "Trampilla en el templo de Hiena."
+    },
+    "Lion": {
+      "en": "Trapdoor located at the Lion temple.",
+      "es": "Trampilla en el templo de León."
+    },
+    "Goat": {
+      "en": "Trapdoor located at the Goat temple.",
+      "es": "Trampilla en el templo de Cabra."
+    },
+    "Goose": {
+      "en": "Trapdoor located at the Goose temple.",
+      "es": "Trampilla en el templo de Ganso."
+    },
+    "Donkey": {
+      "en": "Trapdoor located at the Donkey temple.",
+      "es": "Trampilla en el templo de Burro."
+    },
+    "Monkey": {
+      "en": "Trapdoor located at the Monkey temple.",
+      "es": "Trampilla en el templo de Mono."
+    },
+    "Baboon": {
+      "en": "Trapdoor located at the Baboon temple.",
+      "es": "Trampilla en el templo de Babuino."
+    },
+    "Crocodile": {
+      "en": "Trapdoor located at the Crocodile temple.",
+      "es": "Trampilla en el templo de Cocodrilo."
+    },
+    "Elephant": {
+      "en": "Trapdoor located at the Elephant temple.",
+      "es": "Trampilla en el templo de Elefante."
+    },
+    "Snake": {
+      "en": "Trapdoor located at the Snake temple.",
+      "es": "Trampilla en el templo de Serpiente."
+    }
+  }
+}

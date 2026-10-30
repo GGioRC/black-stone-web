@@ -1,0 +1,430 @@
+{
+ "table": "D",
+ "roll": "inhabitant",
+ "die": "d%",
+ "page": 453,
+ "results": {
+  "1": {
+   "result": "The Red King & The Red Queen†",
+   "page": 373
+  },
+  "2": {
+   "result": "The Black Queen & The Black King†",
+   "page": 372
+  },
+  "3": {
+   "result": "Inquisitor",
+   "page": 293
+  },
+  "4": {
+   "result": "Inquisitor",
+   "page": 293
+  },
+  "5": {
+   "result": "Vampire",
+   "page": 333
+  },
+  "6": {
+   "result": "*1d4+1 Hydras",
+   "page": 288
+  },
+  "7": {
+   "result": "*Hydra",
+   "page": 288
+  },
+  "8": {
+   "result": "*Hydra",
+   "page": 288
+  },
+  "9": {
+   "result": "*Hydra",
+   "page": 288
+  },
+  "10": {
+   "result": "*Hydra",
+   "page": 288
+  },
+  "11": {
+   "result": "*Hydra",
+   "page": 288
+  },
+  "12": {
+   "result": "*Hydra",
+   "page": 288
+  },
+  "13": {
+   "result": "1d2 Gray Gargoyle",
+   "page": 283
+  },
+  "14": {
+   "result": "1d2 Gray Gargoyle",
+   "page": 283
+  },
+  "15": {
+   "result": "Air Elemental",
+   "page": 277
+  },
+  "16": {
+   "result": "Earth Elemental",
+   "page": 278
+  },
+  "17": {
+   "result": "Fire Elemental",
+   "page": 280
+  },
+  "18": {
+   "result": "Water Elemental",
+   "page": 281
+  },
+  "19": {
+   "result": "Iron Golem",
+   "page": 286
+  },
+  "20": {
+   "result": "Clay Golem",
+   "page": 285
+  },
+  "21": {
+   "result": "Stone Golem)",
+   "page": 287
+  },
+  "22": {
+   "result": "Moon Giant (Black Rook)",
+   "page": 360
+  },
+  "23": {
+   "result": "Moon Giant (Black Rook)",
+   "page": 360
+  },
+  "24": {
+   "result": "Sun Giant (Red Rook)",
+   "page": 363
+  },
+  "25": {
+   "result": "Sun Giant (Red Rook)",
+   "page": 363
+  },
+  "26": {
+   "result": "Major Mirrorfolk (Black Bishop)ª",
+   "page": 353
+  },
+  "27": {
+   "result": "Major Mirrorfolk (Black Bishop)ª",
+   "page": 353
+  },
+  "28": {
+   "result": "Contract Devil (Red Bishop)",
+   "page": 356
+  },
+  "29": {
+   "result": "Contract Devil (Red Bishop)",
+   "page": 356
+  },
+  "30": {
+   "result": "Dark Stalker (Black Horse",
+   "page": 348
+  },
+  "31": {
+   "result": "Dark Stalker (Black Horse)",
+   "page": 348
+  },
+  "32": {
+   "result": "Succubus (Red Horse)ª",
+   "page": 350
+  },
+  "33": {
+   "result": "Incubus (Red Horse)ª",
+   "page": 350
+  },
+  "34": {
+   "result": "Black Pawn plus 1d8+1 Hitmen",
+   "page": 340
+  },
+  "35": {
+   "result": "Red Pawn plus 1d6+1 Mazeknights",
+   "page": 345
+  },
+  "36": {
+   "result": "Black Pawn plus 1d8+1 Hitmen",
+   "page": 340
+  },
+  "37": {
+   "result": "Red Pawn plus 1d6+1 Mazeknights",
+   "page": 345
+  },
+  "38": {
+   "result": "Black Pawn plus 1d6+1 Hitmen",
+   "page": 340
+  },
+  "39": {
+   "result": "Red Pawn plus 1d4+1 Mazeknights",
+   "page": 345
+  },
+  "40": {
+   "result": "Black Pawn plus 1d6+1 Hitmen",
+   "page": 340
+  },
+  "41": {
+   "result": "Red Pawn plus 1d4+1 Mazeknights",
+   "page": 345
+  },
+  "42": {
+   "result": "Black Pawn plus 1d4+1 Hitmen",
+   "page": 340
+  },
+  "43": {
+   "result": "Red Pawn plus 1d2+1 Mazeknights",
+   "page": 345
+  },
+  "44": {
+   "result": "Black Pawn plus 1d4+1 Hitmen",
+   "page": 340
+  },
+  "45": {
+   "result": "Red Pawn plus 1d2+1 Mazeknights",
+   "page": 345
+  },
+  "46": {
+   "result": "Master Hitman (Black Pawn)",
+   "page": 340
+  },
+  "47": {
+   "result": "Mazeknight Captain (Red Pawn)",
+   "page": 345
+  },
+  "48": {
+   "result": "Master Hitman (Black Pawn)",
+   "page": 340
+  },
+  "49": {
+   "result": "Mazeknight Captain (Red Pawn)",
+   "page": 345
+  },
+  "50": {
+   "result": "Evil Whisperer plus 1d4+2 Ghouls††",
+   "page": 319
+  },
+  "51": {
+   "result": "1d6+1 Nothics",
+   "page": 308
+  },
+  "52": {
+   "result": "Nothic",
+   "page": 308
+  },
+  "53": {
+   "result": "Maze Imp",
+   "page": 290
+  },
+  "54": {
+   "result": "Maze Imp",
+   "page": 290
+  },
+  "55": {
+   "result": "Ghast and 1d6+1 Ghouls",
+   "page": 331
+  },
+  "56": {
+   "result": "1d6+2 Ghouls",
+   "page": 330
+  },
+  "57": {
+   "result": "1d8+2 Rookie Hitmen",
+   "page": 338
+  },
+  "58": {
+   "result": "1d6+2 Rookie Mazeknight",
+   "page": 343
+  },
+  "59": {
+   "result": "1d6+1 Rookie Hitmen",
+   "page": 338
+  },
+  "60": {
+   "result": "1d4+1 Rookie Mazeknight",
+   "page": 343
+  },
+  "61": {
+   "result": "1d6 Mirrorfolkª",
+   "page": 299
+  },
+  "62": {
+   "result": "1d6 Mirrorfolkª",
+   "page": 299
+  },
+  "63": {
+   "result": "**1d8+1 Beasts",
+   "page": 266
+  },
+  "64": {
+   "result": "**1d8+1 Beasts",
+   "page": 266
+  },
+  "65": {
+   "result": "**1d6+1 Beasts",
+   "page": 266
+  },
+  "66": {
+   "result": "**1d6+1 Beast",
+   "page": 266
+  },
+  "67": {
+   "result": "**1d4+1 Beast",
+   "page": 266
+  },
+  "68": {
+   "result": "**1d4+1 Beast",
+   "page": 266
+  },
+  "69": {
+   "result": "**1d4+1 Beast",
+   "page": 266
+  },
+  "70": {
+   "result": "**Beast",
+   "page": 266
+  },
+  "71": {
+   "result": "**Beast",
+   "page": 266
+  },
+  "72": {
+   "result": "**Beast",
+   "page": 266
+  },
+  "73": {
+   "result": "**Beast",
+   "page": 266
+  },
+  "74": {
+   "result": "Maze Ooze",
+   "page": 309
+  },
+  "75": {
+   "result": "Maze Ooze",
+   "page": 309
+  },
+  "76": {
+   "result": "Spiritual Ooze",
+   "page": 311
+  },
+  "77": {
+   "result": "1d6+1 Ghosts",
+   "page": 328
+  },
+  "78": {
+   "result": "Ghost",
+   "page": 328
+  },
+  "79": {
+   "result": "Ghost",
+   "page": 328
+  },
+  "80": {
+   "result": "1 Merchant Raider",
+   "page": 315
+  },
+  "81": {
+   "result": "1d4 Myconid Merchants",
+   "page": 306
+  },
+  "82": {
+   "result": "1d6+1 Myconid Raiders (Hostile)",
+   "page": 307
+  },
+  "83": {
+   "result": "1d4+1 Mazeborn",
+   "page": 316
+  },
+  "84": {
+   "result": "Veteran Raider (Rook) & 1d6 Raiders",
+   "page": 316
+  },
+  "85": {
+   "result": "Veteran Raider (Bishop) & 1d6 Raiders",
+   "page": 316
+  },
+  "86": {
+   "result": "Veteran Raider (Horse) & 1d6 Raiders",
+   "page": 316
+  },
+  "87": {
+   "result": "1d4 Mikite +1d8+1 Fungal Spawn",
+   "page": 302
+  },
+  "88": {
+   "result": "Mikite +1d4+1 Fungal Spawn",
+   "page": 302
+  },
+  "89": {
+   "result": "Lyrakien (Azata)",
+   "page": 259
+  },
+  "90": {
+   "result": "Lyrakien (Azata)",
+   "page": 259
+  },
+  "91": {
+   "result": "Bralani (Azata)",
+   "page": 260
+  },
+  "92": {
+   "result": "Bralani (Azata)",
+   "page": 260
+  },
+  "93": {
+   "result": "Ghaelee (Azata)",
+   "page": 261
+  },
+  "94": {
+   "result": "Ghaelee (Azata)",
+   "page": 261
+  },
+  "95": {
+   "result": "Lillend (Azata)",
+   "page": 263
+  },
+  "96": {
+   "result": "Lillend (Azata)",
+   "page": 263
+  },
+  "97": {
+   "result": "Whisperer plus 1d4+2 Ghouls††",
+   "page": 319
+  },
+  "98": {
+   "result": "Whisperer plus 1d4+2 Ghouls††",
+   "page": 319
+  },
+  "99": {
+   "result": "Zephyr",
+   "page": 413
+  },
+  "100": {
+   "result": "Zephyr",
+   "page": 413
+  }
+ },
+ "footnotes": {
+  "*": {
+   "en": "Roll 1d4+1 for each Hydra's heads · p. 255",
+   "es": "Tira 1d4+1 para las cabezas de cada Hydra · p. 255"
+  },
+  "**": {
+   "en": "Roll on Table 5.1, Beasts · p. 255",
+   "es": "Tira en la Tabla 5.1 de Bestias · p. 255"
+  },
+  "†": {
+   "en": "Only appears with the Chessboard rules · p. 255",
+   "es": "Sólo aparece con las reglas del Tablero de ajedrez · p. 255"
+  },
+  "††": {
+   "en": "Whisperers and Ghouls are enemies of each other · p. 255",
+   "es": "Los Whisperers y los Ghouls son enemigos entre sí · p. 255"
+  },
+  "ª": {
+   "en": "One or more are disguised as Raiders; if needed, another Inhabitants roll · p. 255",
+   "es": "Uno o varios van disfrazados de Incursor; si hace falta, otra tirada de Habitantes · p. 255"
+  }
+ }
+}

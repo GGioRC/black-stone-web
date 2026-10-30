@@ -1,0 +1,77 @@
+{
+ "source": "The Maze - M. A. Bastarrachea Magnani (Axo stories)",
+ "note": "page = printed page of the rulebook (identical to the PDF page); null means the entry has no dedicated description in the book",
+ "rolls": {
+  "chamber": {
+   "die": "d%",
+   "table": "A",
+   "appendix_page": 448
+  },
+  "condition": {
+   "die": "d%",
+   "table": "B",
+   "appendix_page": 451
+  },
+  "entries": {
+   "die": "d6"
+  },
+  "timer": {
+   "die": "Nd10",
+   "note": "N from table A; 1 entry => x10"
+  },
+  "loot": {
+   "die": "d%",
+   "table": "C",
+   "appendix_page": 452
+  },
+  "inhabitant": {
+   "die": "d%",
+   "table": "D",
+   "appendix_page": 453
+  },
+  "mimic": {
+   "die": "d%",
+   "note": {
+    "en": "optional and secret; under 50 there are mimics: a Common Mimic, or 1d10 Maze Mimics instead if it rolls under 10 (p. 85, notation p. 22)",
+    "es": "opcional y secreta; con menos de 50 hay mímicos: un Common Mimic, o 1d10 Maze Mimics en su lugar si sale menos de 10 (p. 85, notación p. 22)"
+   }
+  }
+ },
+ "timerRules": {
+  "oneEntry": {
+   "multiplier": 10,
+   "page": 85,
+   "note": {
+    "en": "With only one entry, the Timer is multiplied by ten",
+    "es": "Si sólo hay una entrada, el Temporizador se multiplica por diez"
+   }
+  },
+  "openWindow": {
+   "dice": "1+1d6",
+   "page": 84,
+   "note": {
+    "en": "Rounds the entry stays open before it closes",
+    "es": "Rondas que la entrada permanece abierta antes de cerrarse"
+   }
+  },
+  "waitOwnEntry": {
+   "formula": {
+    "en": "Timer × entries",
+    "es": "Temporizador × entradas"
+   },
+   "page": 84,
+   "note": {
+    "en": "Alternative: wait at the entry you came in through",
+    "es": "Alternativa: esperar en la entrada por la que se llegó"
+   }
+  },
+  "default": {
+   "dice": 4,
+   "page": 84,
+   "note": {
+    "en": "4d10 unless the table says otherwise",
+    "es": "4d10 si la tabla no indica otra cosa"
+   }
+  }
+ }
+}

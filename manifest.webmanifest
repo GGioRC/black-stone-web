@@ -1,0 +1,16 @@
+{
+  "name": "Black Stone · The Maze",
+  "short_name": "Black Stone",
+  "description": "Ayudante del Amo del Laberinto para The Maze: cámaras con tus dados y referencia del libro.",
+  "start_url": "./#/chamber",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

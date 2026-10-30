@@ -1,0 +1,448 @@
+{
+ "table": "C",
+ "roll": "loot",
+ "die": "d%",
+ "page": 452,
+ "results": {
+  "1": {
+   "result": "Magical Infection",
+   "page": 89
+  },
+  "2": {
+   "result": "Magical Infection",
+   "page": 89
+  },
+  "3": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "4": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "5": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "6": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "7": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "8": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "9": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "10": {
+   "result": "*Weapons (1d6+1)",
+   "page": 180
+  },
+  "11": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "12": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "13": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "14": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "15": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "16": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "17": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "18": {
+   "result": "*Armors (1d6+1)",
+   "page": 180
+  },
+  "19": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "20": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "21": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "22": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "23": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "24": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "25": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "26": {
+   "result": "*Gear and Tools (1d6)",
+   "page": 185
+  },
+  "27": {
+   "result": "*Clothing (1d6+1)",
+   "page": 178
+  },
+  "28": {
+   "result": "*Clothing (1d6+1)",
+   "page": 178
+  },
+  "29": {
+   "result": "*Clothing (1d6+1)",
+   "page": 178
+  },
+  "30": {
+   "result": "*Clothing (1d6+1)",
+   "page": 178
+  },
+  "31": {
+   "result": "*Clothing (1d6+1)",
+   "page": 178
+  },
+  "32": {
+   "result": "*Clothing (1d6+1)",
+   "page": 178
+  },
+  "33": {
+   "result": "*Foraging (1d4+1)",
+   "page": 172
+  },
+  "34": {
+   "result": "*Foraging (1d4+1)",
+   "page": 172
+  },
+  "35": {
+   "result": "*Foraging (1d4+1)",
+   "page": 172
+  },
+  "36": {
+   "result": "*Foraging (1d4+1)",
+   "page": 172
+  },
+  "37": {
+   "result": "*Foraging (1d4+1)",
+   "page": 172
+  },
+  "38": {
+   "result": "Textile Plant",
+   "page": 178
+  },
+  "39": {
+   "result": "Textile Plant",
+   "page": 178
+  },
+  "40": {
+   "result": "Textile Plant",
+   "page": 178
+  },
+  "41": {
+   "result": "Alcohol",
+   "page": 188
+  },
+  "42": {
+   "result": "Alcohol",
+   "page": 188
+  },
+  "43": {
+   "result": "Old Corpses (1d6)",
+   "page": 188
+  },
+  "44": {
+   "result": "Old Corpses (1d6)",
+   "page": 188
+  },
+  "45": {
+   "result": "Old Corpses (1d6)",
+   "page": 188
+  },
+  "46": {
+   "result": "Fresh Corpses (1d6)",
+   "page": 188
+  },
+  "47": {
+   "result": "Fresh Corpses (1d6)",
+   "page": 188
+  },
+  "48": {
+   "result": "Fresh Corpses (1d6)",
+   "page": 188
+  },
+  "49": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "50": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "51": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "52": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "53": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "54": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "55": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "56": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "57": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "58": {
+   "result": "*Common Metal Ore",
+   "page": 176
+  },
+  "59": {
+   "result": "*Mineral Ore",
+   "page": 177
+  },
+  "60": {
+   "result": "*Mineral Ore",
+   "page": 177
+  },
+  "61": {
+   "result": "*Mineral Ore",
+   "page": 177
+  },
+  "62": {
+   "result": "*Mineral Ore",
+   "page": 177
+  },
+  "63": {
+   "result": "*Mineral Ore",
+   "page": 177
+  },
+  "64": {
+   "result": "Supplies (1d10+1)",
+   "page": 175
+  },
+  "65": {
+   "result": "Supplies (1d10+1)",
+   "page": 175
+  },
+  "66": {
+   "result": "Supplies (1d10+1)",
+   "page": 175
+  },
+  "67": {
+   "result": "Supplies (1d10+1)",
+   "page": 175
+  },
+  "68": {
+   "result": "Supplies (1d10+1)",
+   "page": 175
+  },
+  "69": {
+   "result": "Water",
+   "page": 171
+  },
+  "70": {
+   "result": "Water",
+   "page": 171
+  },
+  "71": {
+   "result": "Water",
+   "page": 171
+  },
+  "72": {
+   "result": "Water",
+   "page": 171
+  },
+  "73": {
+   "result": "Water",
+   "page": 171
+  },
+  "74": {
+   "result": "Water",
+   "page": 171
+  },
+  "75": {
+   "result": "Water",
+   "page": 171
+  },
+  "76": {
+   "result": "Water",
+   "page": 171
+  },
+  "77": {
+   "result": "Water",
+   "page": 171
+  },
+  "78": {
+   "result": "Water",
+   "page": 171
+  },
+  "79": {
+   "result": "Water",
+   "page": 171
+  },
+  "80": {
+   "result": "Water",
+   "page": 171
+  },
+  "81": {
+   "result": "Water",
+   "page": 171
+  },
+  "82": {
+   "result": "Water",
+   "page": 171
+  },
+  "83": {
+   "result": "Water",
+   "page": 171
+  },
+  "84": {
+   "result": "Dry Wood",
+   "page": 175
+  },
+  "85": {
+   "result": "Dry Wood",
+   "page": 175
+  },
+  "86": {
+   "result": "Dry Wood",
+   "page": 175
+  },
+  "87": {
+   "result": "Seide",
+   "page": 206
+  },
+  "88": {
+   "result": "Seide",
+   "page": 206
+  },
+  "89": {
+   "result": "Forest",
+   "page": 176
+  },
+  "90": {
+   "result": "Forest",
+   "page": 176
+  },
+  "91": {
+   "result": "Forest",
+   "page": 176
+  },
+  "92": {
+   "result": "*Special Metal Ore",
+   "page": 177
+  },
+  "93": {
+   "result": "*Special Metal Ore",
+   "page": 177
+  },
+  "94": {
+   "result": "*Special Metal Ore",
+   "page": 177
+  },
+  "95": {
+   "result": "*Special Metal Ore",
+   "page": 177
+  },
+  "96": {
+   "result": "*Special Metal Ore",
+   "page": 177
+  },
+  "97": {
+   "result": "Darkwood",
+   "page": 201
+  },
+  "98": {
+   "result": "Darkwood",
+   "page": 201
+  },
+  "99": {
+   "result": "**Magic Item",
+   "page": 207
+  },
+  "100": {
+   "result": "**Magic Item",
+   "page": 207
+  }
+ },
+ "footnotes": {
+  "*": {
+   "en": "The number in parentheses is how many times the matching table is rolled · p. 167",
+   "es": "El número entre paréntesis es cuántas veces se tira la tabla correspondiente · p. 167"
+  },
+  "**": {
+   "en": "The Maze Master decides the specific magic item · p. 167",
+   "es": "El objeto mágico concreto lo decide el Amo del Laberinto · p. 167"
+  },
+  "plain": {
+   "en": "The number in parentheses is the units obtained · p. 167",
+   "es": "El número entre paréntesis son las unidades que se obtienen · p. 167"
+  },
+  "ore": {
+   "en": "Roll on the corresponding material table to identify the deposit · pp. 176–178.",
+   "es": "Tira en la tabla del material correspondiente para identificar la veta · pp. 176–178."
+  }
+ },
+ "special": {
+  "Supplies (1d10+1)": {
+   "en": "Table C specifies 1d10+1 supplies; the prose on p. 175 instead says 2d10. This result follows Table C. Each supply contains one water unit and one food unit.",
+   "es": "La tabla C indica 1d10+1 provisiones; el texto de la p. 175 dice 2d10. Este resultado sigue la tabla C. Cada provisión contiene una unidad de agua y una de comida."
+  },
+  "Old Corpses (1d6)": {
+   "en": "Per corpse: 1d4 supplies and one roll on each clothing, armor and weapon table. The text also gives a >10% chance of one alcohol unit · p. 188.",
+   "es": "Por cadáver: 1d4 provisiones y una tirada en cada tabla de ropa, armaduras y armas. El texto también indica >10% de encontrar una unidad de alcohol · p. 188."
+  },
+  "Fresh Corpses (1d6)": {
+   "en": "Per corpse: 1d4 supplies and one roll on each clothing, armor and weapon table. The text also gives a >10% chance of one alcohol unit · p. 188.",
+   "es": "Por cadáver: 1d4 provisiones y una tirada en cada tabla de ropa, armaduras y armas. El texto también indica >10% de encontrar una unidad de alcohol · p. 188."
+  },
+  "**Magic Item": {
+   "en": "Choose the specific item from the magic items section (p. 207 onward) at the Maze Master’s discretion. Table C does not supply a random item table.",
+   "es": "El Amo del Laberinto elige el objeto concreto de la sección de objetos mágicos (p. 207 en adelante). La tabla C no indica una tabla aleatoria de objetos."
+  },
+  "Textile Plant": {
+   "en": "Each plant yields 1d10 fabric units and one seed · p. 178.",
+   "es": "Cada planta da 1d10 unidades de tejido y una semilla · p. 178."
+  }
+ }
+}

@@ -1,0 +1,1915 @@
+{
+  "table": "3.6",
+  "die": "d%",
+  "page": 110,
+  "results": {
+    "1": {
+      "result": "Magical Infected Undead Raiders and Necromantic Mist",
+      "page": 110
+    },
+    "2": {
+      "result": "Magical Infected Undead Raiders and Necromantic Mist",
+      "page": 110
+    },
+    "3": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "4": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "5": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "6": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "7": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "8": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "9": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "10": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "11": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "12": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "13": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "14": {
+      "result": "Undead Raiders",
+      "page": 110
+    },
+    "15": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "16": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "17": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "18": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "19": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "20": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "21": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "22": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "23": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "24": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "25": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "26": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "27": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "28": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "29": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "30": {
+      "result": "Mazeknights",
+      "page": 110
+    },
+    "31": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "32": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "33": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "34": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "35": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "36": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "37": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "38": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "39": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "40": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "41": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "42": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "43": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "44": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "45": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "46": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "47": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "48": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "49": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "50": {
+      "result": "Hitmen",
+      "page": 110
+    },
+    "51": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "52": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "53": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "54": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "55": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "56": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "57": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "58": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "59": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "60": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "61": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "62": {
+      "result": "Hostile Raiders",
+      "page": 110
+    },
+    "63": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "64": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "65": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "66": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "67": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "68": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "69": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "70": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "71": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "72": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "73": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "74": {
+      "result": "Hostile Mazeborn",
+      "page": 110
+    },
+    "75": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "76": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "77": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "78": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "79": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "80": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "81": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "82": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "83": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "84": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "85": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "86": {
+      "result": "Indifferent Raiders",
+      "page": 110
+    },
+    "87": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "88": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "89": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "90": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "91": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "92": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "93": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "94": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "95": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "96": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "97": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "98": {
+      "result": "Indifferent Mazeborn",
+      "page": 110
+    },
+    "99": {
+      "result": "Helpful Mazeborn",
+      "page": 110
+    },
+    "100": {
+      "result": "Helpful Mazeborn",
+      "page": 110
+    }
+  },
+  "note": {
+    "en": "The 50%< Veteran Raider footnote applies only to starred results (51–100); the Captain and Black Pawn checks apply only to their own rows. No inhabitant quantity is supplied by this table.",
+    "es": "La nota de 50%< de Veteran Raider solo se aplica a resultados con asterisco (51–100); Captain y Black Pawn tienen sus propias pruebas. Esta tabla no indica una cantidad de habitantes."
+  },
+  "footnotes": {
+    "*": {
+      "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+      "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+    }
+  },
+  "special": {
+    "Magical Infected Undead Raiders and Necromantic Mist": {
+      "en": "Undead Raiders with Magical Infection; the chamber also has Necromantic Mist.",
+      "es": "Incursores no muertos con Magical Infection; la cámara también tiene Necromantic Mist."
+    },
+    "Mazeknights": {
+      "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+      "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+    },
+    "Hitmen": {
+      "en": "75%< (1–74): defended by a Black Pawn.",
+      "es": "75%< (1–74): defendida por un Black Pawn."
+    },
+    "Hostile Raiders": {
+      "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+      "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+    },
+    "Hostile Mazeborn": {
+      "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+      "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+    },
+    "Indifferent Raiders": {
+      "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+      "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+    },
+    "Indifferent Mazeborn": {
+      "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+      "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+    },
+    "Helpful Mazeborn": {
+      "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+      "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+    }
+  },
+  "fx": {
+    "15": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "16": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "17": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "18": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "19": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "20": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "21": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "22": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "23": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "24": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "25": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "26": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "27": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "28": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "29": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "30": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Mazeknight Captain (Red Pawn).",
+        "es": "75%< (1–74): defendida por un Mazeknight Captain (Red Pawn)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Mazeknight Captain (Red Pawn)",
+            "es": "Mazeknight Captain (Red Pawn)"
+          }
+        }
+      ]
+    },
+    "31": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "32": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "33": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "34": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "35": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "36": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "37": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "38": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "39": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "40": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "41": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "42": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "43": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "44": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "45": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "46": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "47": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "48": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "49": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "50": {
+      "page": 110,
+      "note": {
+        "en": "75%< (1–74): defended by a Black Pawn.",
+        "es": "75%< (1–74): defendida por un Black Pawn."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "75%<",
+          "of": {
+            "en": "Black Pawn",
+            "es": "Black Pawn"
+          }
+        }
+      ]
+    },
+    "51": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "52": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "53": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "54": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "55": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "56": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "57": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "58": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "59": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "60": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "61": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "62": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "63": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "64": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "65": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "66": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "67": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "68": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "69": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "70": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "71": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "72": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "73": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "74": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "75": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "76": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "77": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "78": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "79": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "80": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "81": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "82": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "83": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "84": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "85": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "86": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "87": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "88": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "89": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "90": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "91": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "92": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "93": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "94": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "95": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "96": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "97": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "98": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "99": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    },
+    "100": {
+      "page": 110,
+      "note": {
+        "en": "50%< (1–49): defended by a Veteran Raider (Horse, Bishop or Rook).",
+        "es": "50%< (1–49): defendida por un Veteran Raider (Horse, Bishop o Rook)."
+      },
+      "rolls": [
+        {
+          "kind": "inhabitant",
+          "chance": "50%<",
+          "of": {
+            "en": "Veteran Raider (Horse, Bishop or Rook)",
+            "es": "Veteran Raider (Horse, Bishop or Rook)"
+          }
+        }
+      ]
+    }
+  }
+}

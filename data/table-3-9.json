@@ -1,0 +1,61 @@
+{
+  "table": "3.9",
+  "die": "d6",
+  "page": 136,
+  "results": {
+    "1": {
+      "result": "An elven scouting party, armed with sword and bow.",
+      "page": 136
+    },
+    "2": {
+      "result": "A group of Halfling cannibals, armed with bone knives and slings.",
+      "page": 136
+    },
+    "3": {
+      "result": "A set of human thieves who skulk in the twilight.",
+      "page": 136
+    },
+    "4": {
+      "result": "A team of human knights, who approach in formation.",
+      "page": 136
+    },
+    "5": {
+      "result": "A conclave of cultists and warlocks.",
+      "page": 136
+    },
+    "6": {
+      "result": "A small horde of kobolds, armed with scavenged weapons.",
+      "page": 136
+    }
+  },
+  "note": {
+    "en": "These are the next Raiders after the party defeats the current Hall Wardens; they have the same level as the players. To escape, the new Wardens must lose to them. No numerical party-size die appears in this table.",
+    "es": "Son los siguientes Incursores después de vencer a los guardianes actuales; tienen el mismo nivel que los personajes. Para escapar, los nuevos guardianes deben perder contra ellos. Esta tabla no trae dado de cantidad de integrantes."
+  },
+  "special": {
+    "An elven scouting party, armed with sword and bow.": {
+      "en": "An elven scouting party, armed with sword and bow.",
+      "es": "Exploradores elfos armados con espada y arco."
+    },
+    "A group of Halfling cannibals, armed with bone knives and slings.": {
+      "en": "A group of Halfling cannibals, armed with bone knives and slings.",
+      "es": "Caníbales Halfling armados con cuchillos de hueso y hondas."
+    },
+    "A set of human thieves who skulk in the twilight.": {
+      "en": "A set of human thieves who skulk in the twilight.",
+      "es": "Ladrones humanos que se ocultan en la penumbra."
+    },
+    "A team of human knights, who approach in formation.": {
+      "en": "A team of human knights, who approach in formation.",
+      "es": "Caballeros humanos que se acercan en formación."
+    },
+    "A conclave of cultists and warlocks.": {
+      "en": "A conclave of cultists and warlocks.",
+      "es": "Un cónclave de cultistas y brujos."
+    },
+    "A small horde of kobolds, armed with scavenged weapons.": {
+      "en": "A small horde of kobolds, armed with scavenged weapons.",
+      "es": "Una pequeña horda de kobolds con armas recuperadas."
+    }
+  }
+}

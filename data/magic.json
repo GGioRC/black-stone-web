@@ -1,0 +1,205 @@
+{
+ "source": "Datos de juego abreviados de The Maze (M. A. Bastarrachea Magnani, Axo stories). El detalle está en la página indicada.",
+ "items": [
+  {
+   "name": "Black Armor",
+   "kind": "magic",
+   "page": 207,
+   "Category": ": Armor",
+   "Rarity": "Very Rare"
+  },
+  {
+   "name": "Book of Roots",
+   "kind": "magic",
+   "page": 208,
+   "Category": "Wondrous Item",
+   "Rarity": "Common"
+  },
+  {
+   "name": "Builder's Tool",
+   "kind": "magic",
+   "page": 208,
+   "Category": "Weapon/Tool",
+   "Rarity": "Legendary"
+  },
+  {
+   "name": "Butler Beans",
+   "kind": "magic",
+   "page": 209,
+   "Category": "Wondrous Item (consumable)",
+   "Rarity": "Very Rare"
+  },
+  {
+   "name": "Cuzgulda",
+   "kind": "magic",
+   "page": 209,
+   "Category": "Weapon",
+   "Rarity": "Very Rare"
+  },
+  {
+   "name": "Fresh Air Potion",
+   "kind": "magic",
+   "page": 210,
+   "Category": "Potion (consumable)",
+   "Rarity": "Uncommon"
+  },
+  {
+   "name": "Fruits of Wonder",
+   "kind": "magic",
+   "page": 210,
+   "Category": "Wondrous Item (consumable)",
+   "Rarity": "Legendary"
+  },
+  {
+   "name": "Hearth Cord",
+   "kind": "magic",
+   "page": 213,
+   "Category": "Wondrous Item (consumable)",
+   "Rarity": "Very Rare"
+  },
+  {
+   "name": "Inquisitor's Censer",
+   "kind": "magic",
+   "page": 214,
+   "Category": "Wondrous Item",
+   "Rarity": "Legendary"
+  },
+  {
+   "name": "Mazeknight Armor",
+   "kind": "magic",
+   "page": 214,
+   "Category": "Armor",
+   "Rarity": "Rare"
+  },
+  {
+   "name": "Oktar's Mask",
+   "kind": "magic",
+   "page": 215,
+   "Category": "Wondrous Item",
+   "Rarity": "Rare"
+  },
+  {
+   "name": "Nymph Staff",
+   "kind": "magic",
+   "page": 216,
+   "Category": "Staff",
+   "Rarity": "Very Rare"
+  },
+  {
+   "name": "Whisper Bottle",
+   "kind": "magic",
+   "page": 216,
+   "Category": "Wondrous Item",
+   "Rarity": "Rare"
+  },
+  {
+   "name": "Archfiend Armor",
+   "kind": "magic",
+   "page": 217,
+   "Category": "Armor",
+   "Rarity": "Legendary (artifact)"
+  },
+  {
+   "name": "Angel's Feathers",
+   "kind": "component",
+   "element": "Permanence",
+   "page": 218
+  },
+  {
+   "name": "Aether",
+   "kind": "component",
+   "element": "Power",
+   "page": 219
+  },
+  {
+   "name": "Smoke of Blue Flower",
+   "kind": "component",
+   "element": "Renewal",
+   "page": 219
+  },
+  {
+   "name": "The Obdurate Breath",
+   "kind": "component",
+   "element": null,
+   "page": 220
+  },
+  {
+   "name": "Infernal Fire",
+   "kind": "component",
+   "element": "Permanence",
+   "page": 221
+  },
+  {
+   "name": "Dragon's Fire",
+   "kind": "component",
+   "element": "Power",
+   "page": 222
+  },
+  {
+   "name": "Raw Magic",
+   "kind": "component",
+   "element": "Renewal",
+   "page": 222
+  },
+  {
+   "name": "Infinite Fire",
+   "kind": "component",
+   "element": null,
+   "page": 223
+  },
+  {
+   "name": "Astral Matter",
+   "kind": "component",
+   "element": "Permanence",
+   "page": 223
+  },
+  {
+   "name": "Primordial Soil",
+   "kind": "component",
+   "element": "Renewal",
+   "page": 224
+  },
+  {
+   "name": "Dipolarite",
+   "kind": "component",
+   "element": "Power",
+   "page": 225
+  },
+  {
+   "name": "The Impassible Clay",
+   "kind": "component",
+   "element": null,
+   "page": 226
+  },
+  {
+   "name": "Ichor",
+   "kind": "component",
+   "element": "Permanence",
+   "page": 226
+  },
+  {
+   "name": "Night's Water",
+   "kind": "component",
+   "element": "Power",
+   "page": 227
+  },
+  {
+   "name": "Tears of the Gods",
+   "kind": "component",
+   "element": "Renewal",
+   "page": 227
+  },
+  {
+   "name": "The Incessant Liquid",
+   "kind": "component",
+   "element": null,
+   "page": 228
+  },
+  {
+   "name": "Sapient Metal",
+   "kind": "component",
+   "element": "Thirteenth Component",
+   "page": 229
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+  "table": "4.3",
+  "page": 177,
+  "results": {
+    "1": {
+      "result": "*Mineral",
+      "page": 177
+    },
+    "2": {
+      "result": "*Mineral",
+      "page": 177
+    },
+    "3": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "4": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "5": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "6": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "7": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "8": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "9": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "10": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "11": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "12": {
+      "result": "Zinc",
+      "page": 177
+    },
+    "13": {
+      "result": "Lead",
+      "page": 177
+    },
+    "14": {
+      "result": "Lead",
+      "page": 177
+    },
+    "15": {
+      "result": "Lead",
+      "page": 177
+    },
+    "16": {
+      "result": "Lead",
+      "page": 177
+    },
+    "17": {
+      "result": "Lead",
+      "page": 177
+    },
+    "18": {
+      "result": "Lead",
+      "page": 177
+    },
+    "19": {
+      "result": "Lead",
+      "page": 177
+    },
+    "20": {
+      "result": "Lead",
+      "page": 177
+    },
+    "21": {
+      "result": "Tin",
+      "page": 177
+    },
+    "22": {
+      "result": "Tin",
+      "page": 177
+    },
+    "23": {
+      "result": "Tin",
+      "page": 177
+    },
+    "24": {
+      "result": "Tin",
+      "page": 177
+    },
+    "25": {
+      "result": "Tin",
+      "page": 177
+    },
+    "26": {
+      "result": "Tin",
+      "page": 177
+    },
+    "27": {
+      "result": "Tin",
+      "page": 177
+    },
+    "28": {
+      "result": "Tin",
+      "page": 177
+    },
+    "29": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "30": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "31": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "32": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "33": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "34": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "35": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "36": {
+      "result": "Pewter",
+      "page": 177
+    },
+    "37": {
+      "result": "Copper",
+      "page": 177
+    },
+    "38": {
+      "result": "Copper",
+      "page": 177
+    },
+    "39": {
+      "result": "Copper",
+      "page": 177
+    },
+    "40": {
+      "result": "Copper",
+      "page": 177
+    },
+    "41": {
+      "result": "Copper",
+      "page": 177
+    },
+    "42": {
+      "result": "Copper",
+      "page": 177
+    },
+    "43": {
+      "result": "Copper",
+      "page": 177
+    },
+    "44": {
+      "result": "Copper",
+      "page": 177
+    },
+    "45": {
+      "result": "Iron",
+      "page": 177
+    },
+    "46": {
+      "result": "Iron",
+      "page": 177
+    },
+    "47": {
+      "result": "Iron",
+      "page": 177
+    },
+    "48": {
+      "result": "Iron",
+      "page": 177
+    },
+    "49": {
+      "result": "Iron",
+      "page": 177
+    },
+    "50": {
+      "result": "Iron",
+      "page": 177
+    },
+    "51": {
+      "result": "Iron",
+      "page": 177
+    },
+    "52": {
+      "result": "Iron",
+      "page": 177
+    },
+    "53": {
+      "result": "Gold",
+      "page": 177
+    },
+    "54": {
+      "result": "Gold",
+      "page": 177
+    },
+    "55": {
+      "result": "Gold",
+      "page": 177
+    },
+    "56": {
+      "result": "Gold",
+      "page": 177
+    },
+    "57": {
+      "result": "Gold",
+      "page": 177
+    },
+    "58": {
+      "result": "Gold",
+      "page": 177
+    },
+    "59": {
+      "result": "Gold",
+      "page": 177
+    },
+    "60": {
+      "result": "Gold",
+      "page": 177
+    },
+    "61": {
+      "result": "Silver",
+      "page": 177
+    },
+    "62": {
+      "result": "Silver",
+      "page": 177
+    },
+    "63": {
+      "result": "Silver",
+      "page": 177
+    },
+    "64": {
+      "result": "Silver",
+      "page": 177
+    },
+    "65": {
+      "result": "Silver",
+      "page": 177
+    },
+    "66": {
+      "result": "Silver",
+      "page": 177
+    },
+    "67": {
+      "result": "Silver",
+      "page": 177
+    },
+    "68": {
+      "result": "Silver",
+      "page": 177
+    },
+    "69": {
+      "result": "Brass",
+      "page": 177
+    },
+    "70": {
+      "result": "Brass",
+      "page": 177
+    },
+    "71": {
+      "result": "Brass",
+      "page": 177
+    },
+    "72": {
+      "result": "Brass",
+      "page": 177
+    },
+    "73": {
+      "result": "Brass",
+      "page": 177
+    },
+    "74": {
+      "result": "Brass",
+      "page": 177
+    },
+    "75": {
+      "result": "Brass",
+      "page": 177
+    },
+    "76": {
+      "result": "Brass",
+      "page": 177
+    },
+    "77": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "78": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "79": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "80": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "81": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "82": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "83": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "84": {
+      "result": "Bronze",
+      "page": 177
+    },
+    "85": {
+      "result": "Electrum",
+      "page": 177
+    },
+    "86": {
+      "result": "Electrum",
+      "page": 177
+    },
+    "87": {
+      "result": "Electrum",
+      "page": 177
+    },
+    "88": {
+      "result": "Electrum",
+      "page": 177
+    },
+    "89": {
+      "result": "Electrum",
+      "page": 177
+    },
+    "90": {
+      "result": "Electrum",
+      "page": 177
+    },
+    "91": {
+      "result": "Steel",
+      "page": 177
+    },
+    "92": {
+      "result": "Steel",
+      "page": 177
+    },
+    "93": {
+      "result": "Steel",
+      "page": 177
+    },
+    "94": {
+      "result": "Steel",
+      "page": 177
+    },
+    "95": {
+      "result": "Steel",
+      "page": 177
+    },
+    "96": {
+      "result": "Steel",
+      "page": 177
+    },
+    "97": {
+      "result": "Steel",
+      "page": 177
+    },
+    "98": {
+      "result": "Steel",
+      "page": 177
+    },
+    "99": {
+      "result": "**Special Metal",
+      "page": 177
+    },
+    "100": {
+      "result": "**Special Metal",
+      "page": 177
+    }
+  },
+  "note": {
+    "en": "A deposit, not collected loot. Extraction needs suitable tools (hardness at least that of the material), proficiency and a successful skill check. Roll the yield only after success · pp. 176–177.",
+    "es": "Es una veta, no botín recogido. Extraer requiere herramientas de dureza suficiente, competencia y una prueba de habilidad exitosa. Tira la cantidad solo después del éxito · pp. 176–177."
+  },
+  "special": {
+    "*Mineral": {
+      "en": "Roll on table 4.5 to identify the mineral.",
+      "es": "Tira en la tabla 4.5 para identificar el mineral."
+    },
+    "**Special Metal": {
+      "en": "Roll on table 4.4 to identify the special metal.",
+      "es": "Tira en la tabla 4.4 para identificar el metal especial."
+    }
+  }
+}

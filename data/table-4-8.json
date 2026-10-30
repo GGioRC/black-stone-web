@@ -1,0 +1,1000 @@
+{
+  "table": "4.8",
+  "roll": "Weapon Loot",
+  "die": "d%",
+  "page": 183,
+  "note": {
+    "en": "Common metal: roll on Table 4.3; if the metal is absurd, iron. A magical weapon: roll again for its type · p. 183",
+    "es": "Metal común: tira en la Tabla 4.3; si el metal es absurdo, hierro. Un arma mágica: tira otra vez su tipo · p. 183"
+  },
+  "results": {
+    "1": {
+      "result": "Sling",
+      "page": 183
+    },
+    "2": {
+      "result": "Whip",
+      "page": 183
+    },
+    "3": {
+      "result": "Knife (flint)",
+      "page": 183
+    },
+    "4": {
+      "result": "One-handed Axe (flint)",
+      "page": 183
+    },
+    "5": {
+      "result": "One-handed Hammer (flint)",
+      "page": 183
+    },
+    "6": {
+      "result": "Two-handed Hammer (flint)",
+      "page": 183
+    },
+    "7": {
+      "result": "Knife (chitin)",
+      "page": 183
+    },
+    "8": {
+      "result": "Club (chitin)",
+      "page": 183
+    },
+    "9": {
+      "result": "Knife (bone)",
+      "page": 183
+    },
+    "10": {
+      "result": "Knife (bone)",
+      "page": 183
+    },
+    "11": {
+      "result": "Club (bone)",
+      "page": 183
+    },
+    "12": {
+      "result": "Quarterstaff (bone)",
+      "page": 183
+    },
+    "13": {
+      "result": "One-handed Axe (bone)",
+      "page": 183
+    },
+    "14": {
+      "result": "One-handed Blade (bone)",
+      "page": 183
+    },
+    "15": {
+      "result": "Two-handed Blade (bone)",
+      "page": 183
+    },
+    "16": {
+      "result": "Brawl Weapon (bone)",
+      "page": 183
+    },
+    "17": {
+      "result": "Spear (bone)",
+      "page": 183
+    },
+    "18": {
+      "result": "Spiked Chain (bone)",
+      "page": 183
+    },
+    "19": {
+      "result": "Knife (iron)",
+      "page": 183
+    },
+    "20": {
+      "result": "Knife (iron)",
+      "page": 183
+    },
+    "21": {
+      "result": "Knife (iron)",
+      "page": 183
+    },
+    "22": {
+      "result": "Thrown (iron)",
+      "page": 183
+    },
+    "23": {
+      "result": "Brawl Weapon (iron)",
+      "page": 183
+    },
+    "24": {
+      "result": "One-handed Blade (iron)",
+      "page": 184
+    },
+    "25": {
+      "result": "Two-handed Blade (iron)",
+      "page": 184
+    },
+    "26": {
+      "result": "One-handed Axe (iron)",
+      "page": 184
+    },
+    "27": {
+      "result": "Two-handed Axe (iron)",
+      "page": 184
+    },
+    "28": {
+      "result": "One-handed Mace (iron)",
+      "page": 184
+    },
+    "29": {
+      "result": "Two-handed Mace (iron)",
+      "page": 184
+    },
+    "30": {
+      "result": "Flail (iron)",
+      "page": 184
+    },
+    "31": {
+      "result": "One-handed Hammer (iron)",
+      "page": 184
+    },
+    "32": {
+      "result": "Two-handed Hammer (iron)",
+      "page": 184
+    },
+    "33": {
+      "result": "Pick (iron)",
+      "page": 184
+    },
+    "34": {
+      "result": "Polearm (iron+bone)",
+      "page": 184
+    },
+    "35": {
+      "result": "Spear (iron+bone)",
+      "page": 184
+    },
+    "36": {
+      "result": "Spiked Chain (iron)",
+      "page": 184
+    },
+    "37": {
+      "result": "Knife (common metal)",
+      "page": 184
+    },
+    "38": {
+      "result": "One-handed Blade (common metal)",
+      "page": 184
+    },
+    "39": {
+      "result": "Two-handed Blade (common metal)",
+      "page": 184
+    },
+    "40": {
+      "result": "One-handed Axe (common metal)",
+      "page": 184
+    },
+    "41": {
+      "result": "Two-handed Axe (common metal)",
+      "page": 185
+    },
+    "42": {
+      "result": "One-handed Mace (common metal)",
+      "page": 185
+    },
+    "43": {
+      "result": "Two-handed Mace (common metal)",
+      "page": 185
+    },
+    "44": {
+      "result": "One-handed Hammer (common metal)",
+      "page": 185
+    },
+    "45": {
+      "result": "Two-handed Hammer (common metal)",
+      "page": 185
+    },
+    "46": {
+      "result": "Pick (common metal)",
+      "page": 185
+    },
+    "47": {
+      "result": "Polearm (common metal)",
+      "page": 185
+    },
+    "48": {
+      "result": "Spear (common metal)",
+      "page": 185
+    },
+    "49": {
+      "result": "Quarterstaff (wood)",
+      "page": 185
+    },
+    "50": {
+      "result": "Crossbow (wood)",
+      "page": 185
+    },
+    "51": {
+      "result": "Short Bow (wood)",
+      "page": 183
+    },
+    "52": {
+      "result": "Short Bow (wood)",
+      "page": 183
+    },
+    "53": {
+      "result": "Longbow (wood)",
+      "page": 183
+    },
+    "54": {
+      "result": "Longbow (wood)",
+      "page": 183
+    },
+    "55": {
+      "result": "Knife (steel)",
+      "page": 183
+    },
+    "56": {
+      "result": "Thrown (steel)",
+      "page": 183
+    },
+    "57": {
+      "result": "Brawl Weapon (steel)",
+      "page": 183
+    },
+    "58": {
+      "result": "One-handed Blade (steel)",
+      "page": 183
+    },
+    "59": {
+      "result": "Two-handed Blade (steel)",
+      "page": 183
+    },
+    "60": {
+      "result": "One-handed Axe (steel)",
+      "page": 183
+    },
+    "61": {
+      "result": "Two-handed Axe (steel)",
+      "page": 183
+    },
+    "62": {
+      "result": "One-handed Mace (steel)",
+      "page": 183
+    },
+    "63": {
+      "result": "Two-handed Mace (steel)",
+      "page": 183
+    },
+    "64": {
+      "result": "One-handed Hammer (steel)",
+      "page": 183
+    },
+    "65": {
+      "result": "Two-handed Hammer (steel)",
+      "page": 183
+    },
+    "66": {
+      "result": "Flail (steel)",
+      "page": 183
+    },
+    "67": {
+      "result": "Pick (steel)",
+      "page": 183
+    },
+    "68": {
+      "result": "Polearm (steel+bone)",
+      "page": 183
+    },
+    "69": {
+      "result": "Spear (steel+bone)",
+      "page": 183
+    },
+    "70": {
+      "result": "Spiked Chain (steel)",
+      "page": 183
+    },
+    "71": {
+      "result": "Knife (special metal)",
+      "page": 183
+    },
+    "72": {
+      "result": "Thrown (special metal)",
+      "page": 183
+    },
+    "73": {
+      "result": "Brawl Weapon (special metal)",
+      "page": 184
+    },
+    "74": {
+      "result": "One-handed Blade (special metal)",
+      "page": 184
+    },
+    "75": {
+      "result": "Two-handed Blade (special metal)",
+      "page": 184
+    },
+    "76": {
+      "result": "One-handed Axe (special metal)",
+      "page": 184
+    },
+    "77": {
+      "result": "Two-handed Axe (special metal)",
+      "page": 184
+    },
+    "78": {
+      "result": "One-handed Mace (special metal)",
+      "page": 184
+    },
+    "79": {
+      "result": "Two-handed Mace (special metal)",
+      "page": 184
+    },
+    "80": {
+      "result": "Flail (steel)",
+      "page": 184
+    },
+    "81": {
+      "result": "One-handed Hammer (special metal)",
+      "page": 184
+    },
+    "82": {
+      "result": "Two-handed Hammer (special metal)",
+      "page": 184
+    },
+    "83": {
+      "result": "Pick (special metal)",
+      "page": 184
+    },
+    "84": {
+      "result": "Polearm (wood+special metal)",
+      "page": 184
+    },
+    "85": {
+      "result": "Spear (wood+special metal)",
+      "page": 184
+    },
+    "86": {
+      "result": "Spiked Chain (steel)",
+      "page": 184
+    },
+    "87": {
+      "result": "Club (inertial granite)",
+      "page": 184
+    },
+    "88": {
+      "result": "One-handed Mace (inertial granite)",
+      "page": 184
+    },
+    "89": {
+      "result": "Two-handed Mace (inertial granite)",
+      "page": 184
+    },
+    "90": {
+      "result": "One-handed Hammer (inertial granite)",
+      "page": 185
+    },
+    "91": {
+      "result": "Two-handed Hammer (inertial granite)",
+      "page": 185
+    },
+    "92": {
+      "result": "Quarterstaff (darkwood)",
+      "page": 185
+    },
+    "93": {
+      "result": "Short bow (darkwood)",
+      "page": 185
+    },
+    "94": {
+      "result": "Longbow (darkwood)",
+      "page": 185
+    },
+    "95": {
+      "result": "Quarterstaff (sapient wood)",
+      "page": 185
+    },
+    "96": {
+      "result": "Short Bow (sapient wood)",
+      "page": 185
+    },
+    "97": {
+      "result": "Longbow (sapient wood)",
+      "page": 185
+    },
+    "98": {
+      "result": "Cuzgulda",
+      "page": 185
+    },
+    "99": {
+      "result": "*Magical Weapon",
+      "page": 185
+    },
+    "100": {
+      "result": "*Magical Weapon",
+      "page": 185
+    }
+  },
+  "weapons": {
+    "Knife": {
+      "size": {
+        "en": "Small · one hand",
+        "es": "Pequeña · una mano"
+      },
+      "craft": {
+        "en": "1 metal or mineral unit",
+        "es": "1 de metal o mineral"
+      },
+      "damage": "1d4",
+      "type": {
+        "en": "piercing",
+        "es": "punzante"
+      },
+      "approx": false,
+      "sistema": "dagas"
+    },
+    "Quarterstaff": {
+      "size": {
+        "en": "Two hands",
+        "es": "Dos manos"
+      },
+      "craft": {
+        "en": "4 metal or mineral units",
+        "es": "4 de metal o mineral"
+      },
+      "damage": "1d4",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": false,
+      "sistema": "bastones"
+    },
+    "Brawl Weapon": {
+      "size": {
+        "en": "Small · one hand",
+        "es": "Pequeña · una mano"
+      },
+      "craft": {
+        "en": "1 metal or mineral unit",
+        "es": "1 de metal o mineral"
+      },
+      "damage": "1d4",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Thrown": {
+      "size": {
+        "en": "Small · thrown",
+        "es": "Pequeña · arrojadiza"
+      },
+      "craft": {
+        "en": "1 metal or mineral unit",
+        "es": "1 de metal o mineral"
+      },
+      "damage": "1d4",
+      "type": {
+        "en": "piercing",
+        "es": "punzante"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Sling": {
+      "size": {
+        "en": "Small · ranged",
+        "es": "Pequeña · a distancia"
+      },
+      "craft": {
+        "en": "1 metal or mineral unit",
+        "es": "1 de metal o mineral"
+      },
+      "damage": "1d4",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Whip": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d4",
+      "type": {
+        "en": "slashing",
+        "es": "cortante"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "One-handed Blade": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d6",
+      "type": {
+        "en": "slashing",
+        "es": "cortante"
+      },
+      "approx": false,
+      "sistema": "espadas"
+    },
+    "One-handed Mace": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d6",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": false,
+      "sistema": "mazas ligeras"
+    },
+    "Club": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d6",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "One-handed Axe": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d6",
+      "type": {
+        "en": "slashing",
+        "es": "cortante"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Short Bow": {
+      "size": {
+        "en": "Bow · two hands",
+        "es": "Arco · dos manos"
+      },
+      "craft": {
+        "en": "1 fuel unit",
+        "es": "1 de combustible"
+      },
+      "damage": "1d6",
+      "type": {
+        "en": "piercing",
+        "es": "punzante"
+      },
+      "approx": false,
+      "sistema": "arcos"
+    },
+    "One-handed Hammer": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d8",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": false,
+      "sistema": "martillos de guerra"
+    },
+    "Longbow": {
+      "size": {
+        "en": "Bow · two hands",
+        "es": "Arco · dos manos"
+      },
+      "craft": {
+        "en": "1 fuel unit",
+        "es": "1 de combustible"
+      },
+      "damage": "1d8",
+      "type": {
+        "en": "piercing",
+        "es": "punzante"
+      },
+      "approx": false,
+      "sistema": "arcos largos"
+    },
+    "Flail": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d8",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Spear": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d8",
+      "type": {
+        "en": "piercing",
+        "es": "punzante"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Pick": {
+      "size": {
+        "en": "One hand",
+        "es": "Una mano"
+      },
+      "craft": {
+        "en": "2 metal or mineral units",
+        "es": "2 de metal o mineral"
+      },
+      "damage": "1d8",
+      "type": {
+        "en": "piercing",
+        "es": "punzante"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Crossbow": {
+      "size": {
+        "en": "Crossbow · two hands",
+        "es": "Ballesta · dos manos"
+      },
+      "craft": {
+        "en": "2 fuel units",
+        "es": "2 de combustible"
+      },
+      "damage": "1d8",
+      "type": {
+        "en": "piercing",
+        "es": "punzante"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    },
+    "Two-handed Blade": {
+      "size": {
+        "en": "Two hands",
+        "es": "Dos manos"
+      },
+      "craft": {
+        "en": "4 metal or mineral units",
+        "es": "4 de metal o mineral"
+      },
+      "damage": "1d10",
+      "type": {
+        "en": "slashing",
+        "es": "cortante"
+      },
+      "approx": true,
+      "sistema": "armas a dos manos",
+      "note": {
+        "en": "Great or brutal? The app counts it as great (question 14)",
+        "es": "¿Grande o brutal? La app la cuenta como grande (pregunta 14)"
+      }
+    },
+    "Two-handed Axe": {
+      "size": {
+        "en": "Two hands",
+        "es": "Dos manos"
+      },
+      "craft": {
+        "en": "4 metal or mineral units",
+        "es": "4 de metal o mineral"
+      },
+      "damage": "1d10",
+      "type": {
+        "en": "slashing",
+        "es": "cortante"
+      },
+      "approx": true,
+      "sistema": "hachas de batalla",
+      "note": {
+        "en": "Great or brutal? The app counts it as great (question 14)",
+        "es": "¿Grande o brutal? La app la cuenta como grande (pregunta 14)"
+      }
+    },
+    "Two-handed Mace": {
+      "size": {
+        "en": "Two hands",
+        "es": "Dos manos"
+      },
+      "craft": {
+        "en": "4 metal or mineral units",
+        "es": "4 de metal o mineral"
+      },
+      "damage": "1d10",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": false,
+      "sistema": "armas a dos manos"
+    },
+    "Two-handed Hammer": {
+      "size": {
+        "en": "Two hands",
+        "es": "Dos manos"
+      },
+      "craft": {
+        "en": "4 metal or mineral units",
+        "es": "4 de metal o mineral"
+      },
+      "damage": "1d10",
+      "type": {
+        "en": "bludgeoning",
+        "es": "contundente"
+      },
+      "approx": false,
+      "sistema": "armas a dos manos"
+    },
+    "Polearm": {
+      "size": {
+        "en": "Two hands",
+        "es": "Dos manos"
+      },
+      "craft": {
+        "en": "4 metal or mineral units",
+        "es": "4 de metal o mineral"
+      },
+      "damage": "1d10",
+      "type": {
+        "en": "slashing",
+        "es": "cortante"
+      },
+      "approx": false,
+      "sistema": "alabardas"
+    },
+    "Spiked Chain": {
+      "size": {
+        "en": "Two hands · exotic",
+        "es": "Dos manos · exótica"
+      },
+      "craft": {
+        "en": "4 metal or mineral units",
+        "es": "4 de metal o mineral"
+      },
+      "damage": "1d10",
+      "type": {
+        "en": "slashing",
+        "es": "cortante"
+      },
+      "approx": true,
+      "note": {
+        "en": "The Sistema does not name it: category by analogy (question 13)",
+        "es": "El Sistema no la nombra: categoría por analogía (pregunta 13)"
+      }
+    }
+  },
+  "materials": {
+    "steel": {
+      "page": 198,
+      "note": {
+        "en": "The base metal: the weapon's own damage",
+        "es": "El metal base: el daño propio del arma"
+      },
+      "penalty": 0,
+      "approx": false,
+      "fragile": false
+    },
+    "iron": {
+      "page": 194,
+      "note": {
+        "en": "A minor penalty on damage: −1 (Table 1.2, p. 23)",
+        "es": "Una penalización menor al daño: −1 (Tabla 1.2, p. 23)"
+      },
+      "penalty": -1,
+      "approx": false,
+      "fragile": false
+    },
+    "bone": {
+      "page": 189,
+      "note": {
+        "en": "A small penalty on damage: −2 (Table 1.2, p. 23); and fragile",
+        "es": "Una penalización pequeña al daño: −2 (Tabla 1.2, p. 23); y frágil"
+      },
+      "penalty": -2,
+      "approx": false,
+      "fragile": true
+    },
+    "wood": {
+      "page": 196,
+      "note": {
+        "en": "Counts as bone for weapons: −2 on damage, and fragile",
+        "es": "Cuenta como hueso en armas: −2 al daño, y frágil"
+      },
+      "penalty": -2,
+      "approx": false,
+      "fragile": true
+    },
+    "chitin": {
+      "page": 191,
+      "note": {
+        "en": "The book gives chitin no effect on weapons",
+        "es": "El libro no le da efecto a la quitina en armas"
+      },
+      "penalty": 0,
+      "approx": false,
+      "fragile": false
+    },
+    "flint": {
+      "page": 193,
+      "note": {
+        "en": "Fragile, weighs 75% more, half the hardness",
+        "es": "Frágil, pesa un 75 % más y tiene la mitad de dureza"
+      },
+      "penalty": 0,
+      "approx": false,
+      "fragile": true
+    },
+    "common metal": {
+      "page": 177,
+      "note": {
+        "en": "Roll on Table 4.3 for the metal; if it is absurd (a tin axe), iron",
+        "es": "Tira en la Tabla 4.3 qué metal es; si es absurdo (un hacha de estaño), hierro"
+      },
+      "penalty": 0,
+      "approx": true,
+      "fragile": false
+    },
+    "special metal": {
+      "page": 177,
+      "note": {
+        "en": "Roll on Table 4.4 for the special metal",
+        "es": "Tira en la Tabla 4.4 qué metal especial es"
+      },
+      "penalty": 0,
+      "approx": true,
+      "fragile": false
+    },
+    "inertial granite": {
+      "page": 201,
+      "note": {
+        "en": "One more die of the same type; weighs double and needs a high strength",
+        "es": "Un dado más del mismo tipo; pesa el doble y pide mucha fuerza"
+      },
+      "penalty": 0,
+      "approx": false,
+      "fragile": false,
+      "extra": "die"
+    },
+    "darkwood": {
+      "page": 201,
+      "note": {
+        "en": "The damage of steel, at half the weight",
+        "es": "El daño del acero, con la mitad de peso"
+      },
+      "penalty": 0,
+      "approx": false,
+      "fragile": false
+    },
+    "sapient wood": {
+      "page": 204,
+      "note": {
+        "en": "The damage of steel plus 1d6 raw magical damage, at half the weight",
+        "es": "El daño del acero más 1d6 de daño mágico puro, con la mitad de peso"
+      },
+      "penalty": 0,
+      "approx": false,
+      "fragile": false,
+      "extra": "1d6"
+    },
+    "steel+bone": {
+      "page": 189,
+      "note": {
+        "en": "Steel head on a bone shaft: the app uses the steel's damage",
+        "es": "Cabeza de acero en asta de hueso: la app usa el daño del acero"
+      },
+      "penalty": 0,
+      "approx": true,
+      "fragile": false
+    },
+    "iron+bone": {
+      "page": 194,
+      "note": {
+        "en": "Iron head on a bone shaft: the app uses the iron's damage",
+        "es": "Cabeza de hierro en asta de hueso: la app usa el daño del hierro"
+      },
+      "penalty": -1,
+      "approx": true,
+      "fragile": false
+    },
+    "wood+special metal": {
+      "page": 177,
+      "note": {
+        "en": "Special metal head on a wooden shaft: roll on Table 4.4 for the metal",
+        "es": "Cabeza de metal especial en asta de madera: tira en la Tabla 4.4 qué metal es"
+      },
+      "penalty": 0,
+      "approx": true,
+      "fragile": false
+    }
+  },
+  "special": {
+    "Cuzgulda": {
+      "en": "A magic pistol of orichalcum and souls: see its item · p. 209",
+      "es": "Una pistola mágica de oricalco y almas: ver su objeto · p. 209"
+    },
+    "*Magical Weapon": {
+      "en": "Roll on the table again to know its type · p. 183",
+      "es": "Tira otra vez en la tabla para saber su tipo · p. 183"
+    }
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "table": "4.1 · Trinkets",
+  "page": 168,
+  "results": {
+    "1": {
+      "result": "A pair of cursed unmatched stinking socks",
+      "page": 168
+    },
+    "35": {
+      "result": "A holy symbol of an unknown God",
+      "page": 168
+    },
+    "69": {
+      "result": "A purple, magical hat that belonged to an Archmage",
+      "page": 168
+    },
+    "2": {
+      "result": "A cap with louse",
+      "page": 168
+    },
+    "36": {
+      "result": "A mysterious invisible book",
+      "page": 168
+    },
+    "70": {
+      "result": "A broad variety of material components for spells",
+      "page": 168
+    },
+    "3": {
+      "result": "1d4 units of Fiend Blood",
+      "page": 168
+    },
+    "37": {
+      "result": "A book containing the rules of a Bonfire",
+      "page": 168
+    },
+    "71": {
+      "result": "A pair of Magical crutches",
+      "page": 168
+    },
+    "4": {
+      "result": "3d10 gold coins",
+      "page": 168
+    },
+    "38": {
+      "result": "A bag full of Raider's teeth",
+      "page": 168
+    },
+    "72": {
+      "result": "1d6 units of fresh humanoid meat",
+      "page": 168
+    },
+    "5": {
+      "result": "A mummified Raider",
+      "page": 168
+    },
+    "39": {
+      "result": "Fangs and claws of unknown beasts",
+      "page": 168
+    },
+    "73": {
+      "result": "2d6 units of fresh humanoid meat",
+      "page": 168
+    },
+    "6": {
+      "result": "A set of porcelain dishes",
+      "page": 168
+    },
+    "40": {
+      "result": "A magical brush",
+      "page": 168
+    },
+    "74": {
+      "result": "4d6 units of fresh humanoid meat",
+      "page": 168
+    },
+    "7": {
+      "result": "Cheese of Elks from the Maze",
+      "page": 168
+    },
+    "41": {
+      "result": "The Book of Roots",
+      "page": 168
+    },
+    "75": {
+      "result": "8d6 units of fresh humanoid meat",
+      "page": 168
+    },
+    "8": {
+      "result": "Myconid Soap",
+      "page": 168
+    },
+    "42": {
+      "result": "1d6 books and maps with unintelligible scribblings",
+      "page": 168
+    },
+    "76": {
+      "result": "A Parlarama set depicting the Red Queen and the Black King",
+      "page": 168
+    },
+    "9": {
+      "result": "A cursed pillow and a nice set of bedsheets",
+      "page": 169
+    },
+    "43": {
+      "result": "**A slave Raider Zombie",
+      "page": 169
+    },
+    "77": {
+      "result": "A petrified, living, Raider Mazeborn child with an arrow in their chest.",
+      "page": 169
+    },
+    "10": {
+      "result": "A bottled ghost",
+      "page": 169
+    },
+    "44": {
+      "result": "A diary in an unknown language",
+      "page": 169
+    },
+    "78": {
+      "result": "Several units of the incense the Black King employs to meditate",
+      "page": 169
+    },
+    "11": {
+      "result": "1d10 units of sugar or honey†",
+      "page": 169
+    },
+    "45": {
+      "result": "Random pieces of clothing (1d6+1)††",
+      "page": 169
+    },
+    "79": {
+      "result": "A magical portable toilet",
+      "page": 169
+    },
+    "12": {
+      "result": "A broken truth mirror",
+      "page": 169
+    },
+    "46": {
+      "result": "An old music box",
+      "page": 169
+    },
+    "80": {
+      "result": "1d10+1 units of Maze Tea",
+      "page": 169
+    },
+    "13": {
+      "result": "A phylactery emitting a dark force",
+      "page": 169
+    },
+    "47": {
+      "result": "Random tools (1d6+1)††",
+      "page": 169
+    },
+    "81": {
+      "result": "A Red Queen's faction small badge",
+      "page": 169
+    },
+    "14": {
+      "result": "A collection of songs made by bards in the Maze",
+      "page": 169
+    },
+    "48": {
+      "result": "Random pieces of armor (1d6+1)††",
+      "page": 169
+    },
+    "82": {
+      "result": "A living, jailed Maze small cat",
+      "page": 169
+    },
+    "15": {
+      "result": "A reliquary with the ashes of Bonfire Leader",
+      "page": 169
+    },
+    "49": {
+      "result": "A jar of seeds (1d10)",
+      "page": 169
+    },
+    "83": {
+      "result": "A mechanical artificial orichalcum familiar",
+      "page": 169
+    },
+    "16": {
+      "result": "**A slave Vampire bard",
+      "page": 169
+    },
+    "50": {
+      "result": "Rusty but useful weapons (1d8+1)††",
+      "page": 169
+    },
+    "84": {
+      "result": "A rusted, magical, very old, but functional cauldron",
+      "page": 169
+    },
+    "17": {
+      "result": "A Maze Teddy Bear or any other toy",
+      "page": 169
+    },
+    "51": {
+      "result": "1d6 units of water",
+      "page": 169
+    },
+    "85": {
+      "result": "A broad variety of spices, the best in the Maze",
+      "page": 169
+    },
+    "18": {
+      "result": "A bone chest with 2d10 gems",
+      "page": 170
+    },
+    "52": {
+      "result": "2d6 units of water",
+      "page": 170
+    },
+    "86": {
+      "result": "A Cuzgulda",
+      "page": 170
+    },
+    "19": {
+      "result": "A Heavy Key to somewhere in the Maze",
+      "page": 170
+    },
+    "53": {
+      "result": "4d6 units of water",
+      "page": 170
+    },
+    "87": {
+      "result": "An Axebeak chick that can be trained as a mount",
+      "page": 170
+    },
+    "20": {
+      "result": "Several units of pink paint",
+      "page": 170
+    },
+    "54": {
+      "result": "8d6 units of water",
+      "page": 170
+    },
+    "88": {
+      "result": "A receipt of a deposit in Fierna's Emporium by an unknown Raider",
+      "page": 170
+    },
+    "21": {
+      "result": "Several units of candles",
+      "page": 170
+    },
+    "55": {
+      "result": "1d0+2 units of very bad alcohol",
+      "page": 170
+    },
+    "89": {
+      "result": "A lucky charm",
+      "page": 170
+    },
+    "22": {
+      "result": "2d8 units of fruit grown by Myconids",
+      "page": 170
+    },
+    "56": {
+      "result": "1d0+2 units of the finest Maze alcohol",
+      "page": 170
+    },
+    "90": {
+      "result": "A strange, magical compass",
+      "page": 170
+    },
+    "23": {
+      "result": "2d8 units of cereals grown by Myconids",
+      "page": 170
+    },
+    "57": {
+      "result": "A Black King's faction small badge",
+      "page": 170
+    },
+    "91": {
+      "result": "1d4 Butler's Beans",
+      "page": 170
+    },
+    "24": {
+      "result": "2d8 units of medicinal herbs grown by Myconids",
+      "page": 170
+    },
+    "58": {
+      "result": "A bestiary of the Maze",
+      "page": 170
+    },
+    "92": {
+      "result": "One Builder's Tools",
+      "page": 170
+    },
+    "25": {
+      "result": "A fine suit to attend a Masquerade",
+      "page": 170
+    },
+    "59": {
+      "result": "**A token from one the Archfiend",
+      "page": 170
+    },
+    "93": {
+      "result": "1d4 bows plus 3d10 arrows",
+      "page": 170
+    },
+    "26": {
+      "result": "1d6 units of bone",
+      "page": 170
+    },
+    "60": {
+      "result": "An animated magical Bed with ego",
+      "page": 170
+    },
+    "94": {
+      "result": "2d6 units of wood",
+      "page": 170
+    },
+    "27": {
+      "result": "2d6 units of bone",
+      "page": 170
+    },
+    "61": {
+      "result": "1d6 units of perfume",
+      "page": 170
+    },
+    "95": {
+      "result": "1d6 units of darkwood",
+      "page": 170
+    },
+    "28": {
+      "result": "4d6 units of bone",
+      "page": 170
+    },
+    "62": {
+      "result": "1d6 units of soil",
+      "page": 170
+    },
+    "96": {
+      "result": "1d4 units of Primordial Soil",
+      "page": 170
+    },
+    "29": {
+      "result": "8d6 units of bone",
+      "page": 171
+    },
+    "63": {
+      "result": "2d6 units of soil",
+      "page": 171
+    },
+    "97": {
+      "result": "1d4 Blue Flowers",
+      "page": 171
+    },
+    "30": {
+      "result": "4d6 units of beast meat",
+      "page": 171
+    },
+    "64": {
+      "result": "4d6 units of soil",
+      "page": 171
+    },
+    "98": {
+      "result": "1d4 Angel Feathers",
+      "page": 171
+    },
+    "31": {
+      "result": "6d6 units of beast meat",
+      "page": 171
+    },
+    "65": {
+      "result": "8d6 units of soil",
+      "page": 171
+    },
+    "99": {
+      "result": "1d4 Fruit of Wonder",
+      "page": 171
+    },
+    "32": {
+      "result": "8d6 units of beast meat",
+      "page": 171
+    },
+    "66": {
+      "result": "**A slave living Raider",
+      "page": 171
+    },
+    "100": {
+      "result": "A Sapient Metal splinter",
+      "page": 171
+    },
+    "33": {
+      "result": "An invitation to the Red Masquerade",
+      "page": 171
+    },
+    "34": {
+      "result": "1d4 functional musical instruments",
+      "page": 171
+    },
+    "67": {
+      "result": "A set of cold iron cutlery",
+      "page": 171
+    },
+    "68": {
+      "result": "1d10 goats for cattle",
+      "page": 171
+    }
+  },
+  "special": {
+    "1d0+2 units of very bad alcohol": {
+      "es": "El libro impreso, p. 170, muestra «1d0+2». El Amo debe verificar y registrar el dado correcto antes de resolver una cantidad; la app no inventa una equivalencia."
+    },
+    "1d0+2 units of the finest Maze alcohol": {
+      "es": "El libro impreso, p. 170, muestra «1d0+2». El Amo debe verificar y registrar el dado correcto antes de resolver una cantidad; la app no inventa una equivalencia."
+    }
+  }
+}

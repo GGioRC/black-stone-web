@@ -1,0 +1,416 @@
+{
+  "table": "4.9",
+  "page": 186,
+  "results": {
+    "1": {
+      "result": "Flint stone",
+      "page": 186
+    },
+    "2": {
+      "result": "Chalk",
+      "page": 186
+    },
+    "3": {
+      "result": "1d6 Candles (animal fat)",
+      "page": 186
+    },
+    "4": {
+      "result": "Bell (common metal)",
+      "page": 186
+    },
+    "5": {
+      "result": "1d4 Torch (bone)",
+      "page": 186
+    },
+    "6": {
+      "result": "Ladder (bone)",
+      "page": 186
+    },
+    "7": {
+      "result": "Pot (pewter)",
+      "page": 186
+    },
+    "8": {
+      "result": "Pot (lead)",
+      "page": 186
+    },
+    "9": {
+      "result": "Jug (clay)",
+      "page": 186
+    },
+    "10": {
+      "result": "Jug (pewter)",
+      "page": 186
+    },
+    "11": {
+      "result": "Tankard (clay)",
+      "page": 186
+    },
+    "12": {
+      "result": "Bucket (pewter)",
+      "page": 186
+    },
+    "13": {
+      "result": "Bucket (lead)",
+      "page": 186
+    },
+    "14": {
+      "result": "Bucket (pewter)",
+      "page": 186
+    },
+    "15": {
+      "result": "Bottle (clay)",
+      "page": 186
+    },
+    "16": {
+      "result": "Mess kit (tin)",
+      "page": 186
+    },
+    "17": {
+      "result": "Antitoxin (1d4 vials)",
+      "page": 186
+    },
+    "18": {
+      "result": "Alchemist's Fire (1d6 flasks)",
+      "page": 186
+    },
+    "19": {
+      "result": "Acid (1d4 vials)",
+      "page": 186
+    },
+    "20": {
+      "result": "Basic poison (1d6 vials)",
+      "page": 186
+    },
+    "21": {
+      "result": "Oil (1d4 flasks)",
+      "page": 186
+    },
+    "22": {
+      "result": "Oil (Jug)",
+      "page": 186
+    },
+    "23": {
+      "result": "Crowbar (iron)",
+      "page": 186
+    },
+    "24": {
+      "result": "Chest (Iron)",
+      "page": 187
+    },
+    "25": {
+      "result": "Hunting trap",
+      "page": 187
+    },
+    "26": {
+      "result": "Lumber's axe (iron)",
+      "page": 187
+    },
+    "27": {
+      "result": "Miner's pick (iron)",
+      "page": 187
+    },
+    "28": {
+      "result": "Hammer (iron)",
+      "page": 187
+    },
+    "29": {
+      "result": "Butcher's Knife (iron)",
+      "page": 187
+    },
+    "30": {
+      "result": "Saw (iron)",
+      "page": 187
+    },
+    "31": {
+      "result": "Shovel (iron)",
+      "page": 187
+    },
+    "32": {
+      "result": "Mirror (steel)",
+      "page": 187
+    },
+    "33": {
+      "result": "Chain (iron)",
+      "page": 187
+    },
+    "34": {
+      "result": "Pot (iron)",
+      "page": 187
+    },
+    "35": {
+      "result": "Abacus",
+      "page": 187
+    },
+    "36": {
+      "result": "Ink (1d4 vials)",
+      "page": 187
+    },
+    "37": {
+      "result": "Merchant's scale",
+      "page": 187
+    },
+    "38": {
+      "result": "Thieves' tools",
+      "page": 187
+    },
+    "39": {
+      "result": "Manacles (iron)",
+      "page": 187
+    },
+    "40": {
+      "result": "Poisoner's kit",
+      "page": 187
+    },
+    "41": {
+      "result": "String musical instrument",
+      "page": 187
+    },
+    "42": {
+      "result": "Percussion musical instrument",
+      "page": 187
+    },
+    "43": {
+      "result": "Wind musical instrument",
+      "page": 187
+    },
+    "44": {
+      "result": "Soap (1d4 pieces)",
+      "page": 187
+    },
+    "45": {
+      "result": "*Parlarama set",
+      "page": 187
+    },
+    "46": {
+      "result": "Dice set",
+      "page": 187
+    },
+    "47": {
+      "result": "Playing cards set",
+      "page": 188
+    },
+    "48": {
+      "result": "Lantern",
+      "page": 188
+    },
+    "49": {
+      "result": "Lamp",
+      "page": 188
+    },
+    "50": {
+      "result": "Herbalism kit",
+      "page": 188
+    },
+    "51": {
+      "result": "Forgery kit",
+      "page": 186
+    },
+    "52": {
+      "result": "Disguise kit",
+      "page": 186
+    },
+    "53": {
+      "result": "Woodcarver's tools",
+      "page": 186
+    },
+    "54": {
+      "result": "Weaver's tools",
+      "page": 186
+    },
+    "55": {
+      "result": "Climber's kit (iron)",
+      "page": 186
+    },
+    "56": {
+      "result": "Tinker's tools",
+      "page": 186
+    },
+    "57": {
+      "result": "Smith's tools",
+      "page": 186
+    },
+    "58": {
+      "result": "Potter's tools",
+      "page": 186
+    },
+    "59": {
+      "result": "Painter's supplies",
+      "page": 186
+    },
+    "60": {
+      "result": "Mason's tools",
+      "page": 186
+    },
+    "61": {
+      "result": "Leatherworker's tools",
+      "page": 186
+    },
+    "62": {
+      "result": "Jeweler's tools",
+      "page": 186
+    },
+    "63": {
+      "result": "Cook's utensils",
+      "page": 186
+    },
+    "64": {
+      "result": "Glassblower's tools",
+      "page": 186
+    },
+    "65": {
+      "result": "Cobbler's tools",
+      "page": 186
+    },
+    "66": {
+      "result": "Cartographer's tools",
+      "page": 186
+    },
+    "67": {
+      "result": "Carpenter's tools",
+      "page": 186
+    },
+    "68": {
+      "result": "Calligrapher's supplies",
+      "page": 186
+    },
+    "69": {
+      "result": "Brewer's supplies",
+      "page": 186
+    },
+    "70": {
+      "result": "Alchemist's supplies",
+      "page": 186
+    },
+    "71": {
+      "result": "Liquor (1d6 bottles)",
+      "page": 186
+    },
+    "72": {
+      "result": "Beer (1d2 barrels)",
+      "page": 186
+    },
+    "73": {
+      "result": "Pure alcohol (1d4 vials)",
+      "page": 186
+    },
+    "74": {
+      "result": "Perfume (1d4 vials)",
+      "page": 187
+    },
+    "75": {
+      "result": "Magnifying glass",
+      "page": 187
+    },
+    "76": {
+      "result": "Lumber's axe (special metal)",
+      "page": 187
+    },
+    "77": {
+      "result": "Miner's pick (special metal)",
+      "page": 187
+    },
+    "78": {
+      "result": "Hammer (special metal)",
+      "page": 187
+    },
+    "79": {
+      "result": "Butcher's Knife (special metal)",
+      "page": 187
+    },
+    "80": {
+      "result": "Saw (special metal)",
+      "page": 187
+    },
+    "81": {
+      "result": "Shovel (special metal)",
+      "page": 187
+    },
+    "82": {
+      "result": "Mirror (special metal)",
+      "page": 187
+    },
+    "83": {
+      "result": "Chain (special metal)",
+      "page": 187
+    },
+    "84": {
+      "result": "Pot (special metal)",
+      "page": 187
+    },
+    "85": {
+      "result": "Crowbar (special metal)",
+      "page": 187
+    },
+    "86": {
+      "result": "Block and Tackle",
+      "page": 187
+    },
+    "87": {
+      "result": "1d4 Torch (wood)",
+      "page": 187
+    },
+    "88": {
+      "result": "Chest (wood)",
+      "page": 187
+    },
+    "89": {
+      "result": "Manacles (special metal)",
+      "page": 187
+    },
+    "90": {
+      "result": "Parchment (2d10 sheets)",
+      "page": 187
+    },
+    "91": {
+      "result": "Paper (2d10 sheets)",
+      "page": 187
+    },
+    "92": {
+      "result": "Book in blank (paper)",
+      "page": 187
+    },
+    "93": {
+      "result": "Holy symbol",
+      "page": 187
+    },
+    "94": {
+      "result": "Arcane focus",
+      "page": 187
+    },
+    "95": {
+      "result": "Druidic focus",
+      "page": 187
+    },
+    "96": {
+      "result": "Spellbook",
+      "page": 187
+    },
+    "97": {
+      "result": "Masterwork Tool",
+      "page": 188
+    },
+    "98": {
+      "result": "Masterwork Tool",
+      "page": 188
+    },
+    "99": {
+      "result": "**Magical Tool",
+      "page": 188
+    },
+    "100": {
+      "result": "**Magical Tool",
+      "page": 188
+    }
+  },
+  "special": {
+    "**Magical Tool": {
+      "en": "The Maze Master chooses the item, or roll again on table 4.9. This table does not assign magical properties.",
+      "es": "El Amo del Laberinto elige el objeto, o se vuelve a tirar en la tabla 4.9. Esta tabla no asigna propiedades mágicas."
+    },
+    "*Parlarama set": {
+      "en": "Paralarama is the Red Queen’s favorite game.",
+      "es": "Paralarama es el juego favorito de la Reina Roja."
+    }
+  }
+}

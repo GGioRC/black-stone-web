@@ -1,0 +1,145 @@
+{
+  "table": "3.10",
+  "die": "d12",
+  "page": 160,
+  "results": {
+    "1": {
+      "result": "Trapdoor",
+      "page": 160
+    },
+    "2": {
+      "result": "Spiked Pit",
+      "page": 160
+    },
+    "3": {
+      "result": "Blowpipe",
+      "page": 160
+    },
+    "4": {
+      "result": "Energy Channel",
+      "page": 160
+    },
+    "5": {
+      "result": "Crippler",
+      "page": 160
+    },
+    "6": {
+      "result": "Rolling Blades",
+      "page": 160
+    },
+    "7": {
+      "result": "Infection Spreader",
+      "page": 160
+    },
+    "8": {
+      "result": "Enfeebler/Disempower",
+      "page": 160
+    },
+    "9": {
+      "result": "Necromantic Box",
+      "page": 160
+    },
+    "10": {
+      "result": "Catatonic Switch",
+      "page": 160
+    },
+    "11": {
+      "result": "Shadow Stealer",
+      "page": 160
+    },
+    "12": {
+      "result": "Compressor",
+      "page": 160
+    }
+  },
+  "note": {
+    "en": "Use 1d8 for simple Trap Cubes; otherwise this table uses 1d12. Choosing custom traps instead is allowed by the chamber descriptions. The table is a selector: see the individual trap rules on pp. 150–160. Energy Channel is called Energy Streamer in its description (p. 152).",
+    "es": "Usa 1d8 para Trap Cubes simples; en otro caso esta tabla usa 1d12. Las cámaras permiten elegir trampas propias en su lugar. La tabla es un selector: consultar reglas de cada trampa en pp. 150–160. Energy Channel se llama Energy Streamer en su descripción (p. 152)."
+  },
+  "special": {
+    "Trapdoor": {
+      "en": "Full trap rules: p. 150. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 150. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Spiked Pit": {
+      "en": "Full trap rules: p. 150–151. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 150–151. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Blowpipe": {
+      "en": "Full trap rules: p. 151. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 151. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Energy Channel": {
+      "en": "Roll 1d4 for energy type: 1 fire, 2 cold, 3 electricity, 4 acid. See Energy Streamer, p. 152.",
+      "es": "Tira 1d4 para el tipo de energía: 1 fuego, 2 frío, 3 electricidad, 4 ácido. Ver Energy Streamer, p. 152."
+    },
+    "Crippler": {
+      "en": "Full trap rules: p. 152–153. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 152–153. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Rolling Blades": {
+      "en": "Full trap rules: p. 153. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 153. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Infection Spreader": {
+      "en": "Full trap rules: p. 154. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 154. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Enfeebler/Disempower": {
+      "en": "Roll 1d2: 1 Enfeeble, 2 Disempower. See p. 155.",
+      "es": "Tira 1d2: 1 Enfeeble, 2 Disempower. Ver p. 155."
+    },
+    "Necromantic Box": {
+      "en": "Full trap rules: p. 156–157. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 156–157. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Catatonic Switch": {
+      "en": "Full trap rules: p. 157. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 157. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Shadow Stealer": {
+      "en": "Full trap rules: p. 158. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 158. La Tabla 3.10 no añade otro efecto a este resultado."
+    },
+    "Compressor": {
+      "en": "Full trap rules: p. 159–160. Table 3.10 gives no further effect for this row.",
+      "es": "Reglas completas de la trampa: p. 159–160. La Tabla 3.10 no añade otro efecto a este resultado."
+    }
+  },
+  "fx": {
+    "4": {
+      "page": 160,
+      "note": {
+        "en": "Roll 1d4 for energy type: 1 fire, 2 cold, 3 electricity, 4 acid. See Energy Streamer, p. 152.",
+        "es": "Tira 1d4 para el tipo de energía: 1 fuego, 2 frío, 3 electricidad, 4 ácido. Ver Energy Streamer, p. 152."
+      },
+      "rolls": [
+        {
+          "kind": "special",
+          "die": "1d4",
+          "of": {
+            "en": "Energy: 1 fire, 2 cold, 3 electricity, 4 acid",
+            "es": "Energía: 1 fuego, 2 frío, 3 electricidad, 4 ácido"
+          }
+        }
+      ]
+    },
+    "8": {
+      "page": 160,
+      "note": {
+        "en": "Roll 1d2: 1 Enfeeble, 2 Disempower. See p. 155.",
+        "es": "Tira 1d2: 1 Enfeeble, 2 Disempower. Ver p. 155."
+      },
+      "rolls": [
+        {
+          "kind": "special",
+          "die": "1d2",
+          "of": {
+            "en": "1 Enfeeble, 2 Disempower",
+            "es": "1 Enfeeble, 2 Disempower"
+          }
+        }
+      ]
+    }
+  }
+}

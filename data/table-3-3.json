@@ -1,0 +1,104 @@
+{
+  "table": "3.3 · Legendary Raiders",
+  "page": 93,
+  "results": {
+    "1": {
+      "result": "Bookburner",
+      "page": 57
+    },
+    "2": {
+      "result": "Bonebreaker",
+      "page": 58
+    },
+    "3": {
+      "result": "Braids the Smith",
+      "page": 60
+    },
+    "4": {
+      "result": "Epick Henpc",
+      "page": 61
+    },
+    "5": {
+      "result": "Gliblis",
+      "page": 63
+    },
+    "6": {
+      "result": "Jim Foulweather",
+      "page": 65
+    },
+    "7": {
+      "result": "Nutcrusher",
+      "page": 67
+    },
+    "8": {
+      "result": "Pawndissolver",
+      "page": 68
+    },
+    "9": {
+      "result": "Petra Moor",
+      "page": 69
+    },
+    "10": {
+      "result": "Pike Jumper",
+      "page": 71
+    },
+    "11": {
+      "result": "Ser Failures",
+      "page": 73
+    },
+    "12": {
+      "result": "Spell-Eater",
+      "page": 75
+    }
+  },
+  "special": {
+    "Bookburner": {
+      "en": "A human mage with obsidian black hair and bright blue eyes that glow in the darkness. She is a Veteran Raider that was the Librarian of a Bonfire in the past. Those days are now long gone. She wanders The Maze looking for any knowledge on the origins of the Black King. She can be found in a chamber that has enclosed secrets and clues about the Black Pieces, and is actively seeking the Infinite Library. She is helpful toward any Raider group, but she is not an ally. Hence, she won't hesitate to betray anyone that goes with her on his quest for knowledge. Additionally, she carries some magical cursed objects including an obsidian stone that can negate all damage once.",
+      "es": "Maga humana de cabello negro y ojos azules luminosos; antigua Bibliotecaria. Busca información sobre el Rey Negro y la Biblioteca Infinita. Puede ayudar, pero prioriza su búsqueda. El Amo decide su participación en el encuentro."
+    },
+    "Bonebreaker": {
+      "en": "She is a lizardfolk warrior with lustrous black scales, obsidian eyes, and a slim, tall figure. She is a versatile and marvelous fighter, who once be- longed to Old Don's Bonfire. For a long time, she helped to find resources for the Bonfire and the components of the Ultimate Weapon. Then, she visited the Infinite Library and decided to abandon Old Don's Bonfire to record information about the Maze in the company of a walking sapient metal book that writes everything by itself.",
+      "es": "Guerrera reptiliana de escamas negras. Dejó la Hoguera de Old Don para registrar información del Laberinto junto a un libro ambulante de Metal Sapiente. El Amo decide su participación en el encuentro."
+    },
+    "Braids the Smith": {
+      "en": "Braids is a human barbarian, bald and with a long red-haired beard that he wears in a long braid, so he can forge items without burning it. He has blue eyes and has a large build for a human, almost as large as an ogre. He does not trust others easily, but grants his confidence to those that support their words in actions. He is a blacksmith, whose skin has blackened due to the intense fire he uses and the lack of a bath.",
+      "es": "Herrero humano corpulento, calvo y de larga barba roja trenzada. Desconfía de las promesas y respeta a quienes respaldan sus palabras con acciones. El Amo decide su participación en el encuentro."
+    },
+    "Epick Henpc": {
+      "en": "Epick is a human with medium height and very thin complexion. He has caucasian features, light brown hair, and wears humble bartender clothes. He has a pair of warm and joyful blue eyes and is known because he carries everywhere a necklace made of fresh garlic. Even though he lives with fear because of the monsters in the Maze, he has full confidence in the Raiders and their intentions.",
+      "es": "Humano delgado de aspecto humilde, ojos azules alegres y un collar de ajo fresco. Teme a los monstruos, pero confía en los Raiders. El Amo decide su participación en el encuentro."
+    },
+    "Gliblis": {
+      "en": "A Half-giant fighter with short, dark hair and a friendly face that is in- congruous with his fearsome silhouette clad in patchwork armor of scav- enged leather and metal, wielding what looks like a tree branch with a big, black rock tied to it. He is an experienced Raider that joined up with Old Don's Bonfire upon arriving in the Maze. He can be found in any chamber tied to the Builders, where Builder activity has been detected, or where an entrance has jammed, smashing his weapon against it to force it open. Good-natured, he will happily help out fellow friendly Raiders if they cross his path, but often leaves as soon as the group diverges from his search for the Builders and their tools. He also tends to stick his foot in his mouth by revealing opinions or bits of information that he ought not to, a trait that causes some friction with Old Don and the Council of the Three whenever he visits the Bonfire.",
+      "es": "Guerrero semigigante amistoso, con armadura de retazos. Busca a los Constructores y sus herramientas; ayuda a otros Raiders mientras coincidan con su recorrido. El Amo decide su participación en el encuentro."
+    },
+    "Jim Foulweather": {
+      "en": "Jim Foulweather is a mazeborn halfling in his mid-thirties, with messy, brown hair and an untended, short beard. He wears a battered span- genhelm-style helmet, with worn-out studded leather armor, thick linen trousers, and explorer's boots. If you pay attention, behind his messy hair and tucked inside his armor, you could see a thin iron chain wrapped around his neck. Jim had a Bonfire a long time ago, but he was kicked out for reasons unknown to most people (and the Raiders). He now wanders The Maze, trying to find a Raid Pack that would take him back to their Bonfire. He is extremely nimble and dexterous, despite his beer belly, and can throw almost anything with incredible precision. He is known to steal resources and food from Red and Black Outposts, and then use the bounty to try to get another Raiders' favor. The few times he has been caught on these outposts, he managed to escape by incredibly fortuitous coincidences, earning him the \"Lucky Charm\" title.",
+      "es": "Mediano nacido en el Laberinto, expulsado de una Hoguera. Busca un grupo que lo acoja y suele robar recursos de los puestos rojos y negros. El Amo decide su participación en el encuentro."
+    },
+    "Nutcrusher": {
+      "en": "He is a middle-aged human with long, dark hair that covers his face almost entirely, only allowing his broad, terrifying smile to be seen. Countless battles in the Maze have covered his brown skin with scars. He does not wear anything but a pair of snugged and worn-out black leather trousers. On his shoulders and knees, he brazenly wears as an ornament the masks and helmets of the Hitmen and Mazeknights he has executed. He employs pieces of their armors as bracelets and greaves, which he has covered with spikes.",
+      "es": "Humano de largo cabello oscuro, sonrisa inquietante y muchas cicatrices. Lleva máscaras y piezas de armadura de los Hitmen y Mazeknights que ha ejecutado. El Amo decide su participación en el encuentro."
+    },
+    "Pawndissolver": {
+      "en": "She is a medium size Tortle with blue eyes (she is not blind). Like most of the Raiders, she has scars across arms and legs, but the most distinguished one is on her shell. It runs through the length of her shell and cuts deep, but it does not hit the flesh underneath. Most Raiders know that, when they go out with Pawndissolver, they should always keep her within sight as she is known to throw explosives or acids at any given moment. She carries a bag with a portable lab.",
+      "es": "Tortle de ojos azules y gran cicatriz en el caparazón. Lleva un laboratorio portátil y es conocida por recurrir a ácidos y explosivos. El Amo decide su participación en el encuentro."
+    },
+    "Petra Moor": {
+      "en": "Petra is a beautiful woman in her late twenties. She is of medium height and has a skinny complexion. Her body shows signs of famine and weari- ness, but it is also well-trained as a result of her continuous travels around the Maze. She has long, red hair, pale skin, and grey eyes; she is not too worried about her appearance, however. That is why her hair is scruffy and has random dreadlocks. She avoids taking baths regularly, so her skin is caked with dirt and blood, something she claims is necessary to protect herself from the dangers in the Maze. She wears studded, leather armor and often carries both fresh and spoiled meat from creatures killed by her party of Raiders. Petra is a defiant, annoying, and sarcastic person who seems too bored and careless all the time. Nevertheless, Petra has a very good perception, and her reflexes have saved her and her companions countless times. She is always chewing and eating, alleging she needs ev- ery nutrient she can get.",
+      "es": "Viajera humana pelirroja, de ojos grises y aspecto descuidado. Sarcástica y desafiante, se mantiene alerta y suele llevar carne recogida durante las incursiones. El Amo decide su participación en el encuentro."
+    },
+    "Pike Jumper": {
+      "en": "Pike Jumper is a human warrior with long brown hair, tanned skin, and a long tattoo on his left shoulder. He is recognized for carrying two un- matched heavy swords meant for the Red Queen and the Black King. He wanders the Maze surviving on the spoils resulting from the clash between the Red and Black Pieces. Pike Jumper is an avid fighter of both the Red Queen's and the Black King's guilds. He wants to escape the Maze and is convinced the only way to achieve that end is to forge an alliance between all the standing Bonfires. He appears every once in a while near the Bon- fires to trade goods and share information, and would gladly step forward to fight alongside the Raiders, mostly against the Pieces.",
+      "es": "Guerrero humano que porta dos grandes espadas. Combate a ambas facciones y cree que una alianza entre las Hogueras permitirá escapar. El Amo decide su participación en el encuentro."
+    },
+    "Ser Failures": {
+      "en": "Ser Failures is a human warrior with a strong complexion. He is blond, with braided hair and beard, pale skin, and deep blue eyes. He wears steel chainmail under a heavily worn tabard that used to be blue, with what would seem like a heraldic gryphon drawn over it. He carries both a longsword and a shortsword and often uses them together when fighting. Ser Failures tends to study an old book that is filled with his notes. He has a cheerful and somewhat lax personality, something rarely found inside the Maze. Although many of his acquaintances consider him a doofus, he has something that sets him apart from other Raiders: he remembers. He keeps some memories about a mission in his previous life, because he is in fact, a devotee of the Goddess of Magic. His proof is a scarred tattoo of her symbol engraved on his chest.",
+      "es": "Guerrero humano rubio con tabardo gastado y un libro lleno de notas. Es alegre y conserva recuerdos de una misión anterior al Laberinto. El Amo decide su participación en el encuentro."
+    },
+    "Spell-Eater": {
+      "en": "He is a young, weathered shadow of a man vested in threadbare robes. His patchy, shaved head and messy goatee frame the face of a mad- man. Faded tattoos scattered over his jaundiced skin betray a criminal past. His bloodshot eyes dart nervously over the place, compulsively scratching his arms and face. When he speaks, his drained voice trig- gers feelings of danger and pity. Spell-Eater is a pathetic little man. He paces furtively, searching desperately for something, and carries any conversation in a cynical, sarcastic tone. His only joy seems to come from belittling any person compassionate enough to engage him.",
+      "es": "Hombre joven de aspecto consumido, ropas raídas y tatuajes desvaídos. Se mueve nerviosamente y conversa con cinismo y sarcasmo. El Amo decide su participación en el encuentro."
+    }
+  }
+}

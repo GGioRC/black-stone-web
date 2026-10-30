@@ -1,0 +1,115 @@
+{
+  "table": "3.7",
+  "die": "d12",
+  "page": 114,
+  "results": {
+    "1": {
+      "result": "The Ram (Anger)",
+      "page": 114
+    },
+    "2": {
+      "result": "The Bull (Sadness)",
+      "page": 114
+    },
+    "3": {
+      "result": "The Twins (Malice)",
+      "page": 114
+    },
+    "4": {
+      "result": "The Crab (Greed)",
+      "page": 114
+    },
+    "5": {
+      "result": "The Lion (Fraud)",
+      "page": 114
+    },
+    "6": {
+      "result": "The Maiden (Deception)",
+      "page": 114
+    },
+    "7": {
+      "result": "The Fate (Injustice)",
+      "page": 114
+    },
+    "8": {
+      "result": "The Scorpio (Resentment)",
+      "page": 114
+    },
+    "9": {
+      "result": "The Centaur (Temerity)",
+      "page": 114
+    },
+    "10": {
+      "result": "The Goat (Ignorance)",
+      "page": 114
+    },
+    "11": {
+      "result": "The Beauty (Lust)",
+      "page": 114
+    },
+    "12": {
+      "result": "The Fishman (Fickleness)",
+      "page": 114
+    }
+  },
+  "note": {
+    "en": "The Serpent Sun (Imbalance; Sapient Metal splinter) has '?' rather than a die face. Its House begins appearing only after the first Punishment is killed; consult the Chess Board rules. No d12 outcome is replaced or invented here.",
+    "es": "Serpent Sun (Imbalance; Sapient Metal splinter) tiene '?' en vez de una cara del dado. Su Casa empieza a aparecer solo después de matar al primer Castigo; consultar el Tablero de Ajedrez. Aquí no se sustituye ni inventa una cara del d12."
+  },
+  "special": {
+    "The Ram (Anger)": {
+      "en": "Ultimate Weapon component: Dragon Fire. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Dragon Fire. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Bull (Sadness)": {
+      "en": "Ultimate Weapon component: Astral Matter. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Astral Matter. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Twins (Malice)": {
+      "en": "Ultimate Weapon component: Angel Feathers. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Angel Feathers. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Crab (Greed)": {
+      "en": "Ultimate Weapon component: Night's Water. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Night's Water. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Lion (Fraud)": {
+      "en": "Ultimate Weapon component: Infernal Fire. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Infernal Fire. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Maiden (Deception)": {
+      "en": "Ultimate Weapon component: Primordial Soil. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Primordial Soil. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Fate (Injustice)": {
+      "en": "Ultimate Weapon component: Incense of Blue Flower. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Incense of Blue Flower. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Scorpio (Resentment)": {
+      "en": "Ultimate Weapon component: Ichor. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Ichor. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Centaur (Temerity)": {
+      "en": "Ultimate Weapon component: Raw Magic. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Raw Magic. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Goat (Ignorance)": {
+      "en": "Ultimate Weapon component: Dipolarite. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Dipolarite. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Beauty (Lust)": {
+      "en": "Ultimate Weapon component: Aether. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Aether. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    },
+    "The Fishman (Fickleness)": {
+      "en": "Ultimate Weapon component: Tears of the Gods. The Punishment's armor and weapons are loot only if it is defeated (pp. 113–114).",
+      "es": "Componente del Arma Definitiva: Tears of the Gods. La armadura y las armas del Castigo solo se obtienen si es derrotado (pp. 113–114)."
+    }
+  },
+  "footnotes": {
+    "?": {
+      "en": "The Serpent Sun (Imbalance; Sapient Metal splinter) has '?' rather than a die face. Its House begins appearing only after the first Punishment is killed; consult the Chess Board rules. No d12 outcome is replaced or invented here.",
+      "es": "Serpent Sun (Imbalance; Sapient Metal splinter) tiene '?' en vez de una cara del dado. Su Casa empieza a aparecer solo después de matar al primer Castigo; consultar el Tablero de Ajedrez. Aquí no se sustituye ni inventa una cara del d12."
+    }
+  }
+}

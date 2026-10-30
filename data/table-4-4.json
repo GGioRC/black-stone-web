@@ -1,0 +1,416 @@
+{
+  "table": "4.4",
+  "page": 177,
+  "results": {
+    "1": {
+      "result": "Common Metal",
+      "page": 177
+    },
+    "2": {
+      "result": "Common Metal",
+      "page": 177
+    },
+    "3": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "4": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "5": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "6": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "7": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "8": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "9": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "10": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "11": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "12": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "13": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "14": {
+      "result": "Mournsteel (1d6 units)",
+      "page": 177
+    },
+    "15": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "16": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "17": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "18": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "19": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "20": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "21": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "22": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "23": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "24": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "25": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "26": {
+      "result": "Aurorum (1d4 units)",
+      "page": 177
+    },
+    "27": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "28": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "29": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "30": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "31": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "32": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "33": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "34": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "35": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "36": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "37": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "38": {
+      "result": "Adamantium (1d2 units)",
+      "page": 177
+    },
+    "39": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "40": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "41": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "42": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "43": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "44": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "45": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "46": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "47": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "48": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "49": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "50": {
+      "result": "Mithral (1d6 units)",
+      "page": 177
+    },
+    "51": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "52": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "53": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "54": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "55": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "56": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "57": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "58": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "59": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "60": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "61": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "62": {
+      "result": "Occasium (1d6 units)",
+      "page": 177
+    },
+    "63": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "64": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "65": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "66": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "67": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "68": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "69": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "70": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "71": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "72": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "73": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "74": {
+      "result": "Umbrium (1d6 units)",
+      "page": 177
+    },
+    "75": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "76": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "77": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "78": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "79": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "80": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "81": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "82": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "83": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "84": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "85": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "86": {
+      "result": "Blacksteel (1d2 units)",
+      "page": 177
+    },
+    "87": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "88": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "89": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "90": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "91": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "92": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "93": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "94": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "95": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "96": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "97": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "98": {
+      "result": "Orichalcum (1d2 units)",
+      "page": 177
+    },
+    "99": {
+      "result": "Sapient Metal (1 unit)",
+      "page": 177
+    },
+    "100": {
+      "result": "Sapient Metal (1 unit)",
+      "page": 177
+    }
+  },
+  "note": {
+    "en": "A deposit, not collected loot. Extraction needs suitable tools (hardness at least that of the material), proficiency and a successful skill check. Roll the yield only after success · pp. 176–177.",
+    "es": "Es una veta, no botín recogido. Extraer requiere herramientas de dureza suficiente, competencia y una prueba de habilidad exitosa. Tira la cantidad solo después del éxito · pp. 176–177."
+  },
+  "special": {
+    "Common Metal": {
+      "en": "Roll on table 4.3 to identify the common metal.",
+      "es": "Tira en la tabla 4.3 para identificar el metal común."
+    }
+  }
+}

@@ -1,0 +1,1126 @@
+{
+ "table": "3.1",
+ "roll": "wild magic",
+ "die": "d%",
+ "page": 88,
+ "results": {
+  "1": {
+   "result": "Calling the Punishment",
+   "page": 88
+  },
+  "2": {
+   "result": "Forbiddance",
+   "page": 88
+  },
+  "3": {
+   "result": "Forbiddance",
+   "page": 88
+  },
+  "4": {
+   "result": "Forbiddance",
+   "page": 88
+  },
+  "5": {
+   "result": "Forbiddance",
+   "page": 88
+  },
+  "6": {
+   "result": "Forbiddance",
+   "page": 88
+  },
+  "7": {
+   "result": "Strong Rebound",
+   "page": 88
+  },
+  "8": {
+   "result": "Strong Rebound",
+   "page": 88
+  },
+  "9": {
+   "result": "Strong Rebound",
+   "page": 88
+  },
+  "10": {
+   "result": "Strong Rebound",
+   "page": 88
+  },
+  "11": {
+   "result": "Strong Rebound",
+   "page": 88
+  },
+  "12": {
+   "result": "Strong Rebound",
+   "page": 88
+  },
+  "13": {
+   "result": "Strong Rebound",
+   "page": 88
+  },
+  "14": {
+   "result": "Rebound",
+   "page": 88
+  },
+  "15": {
+   "result": "Rebound",
+   "page": 88
+  },
+  "16": {
+   "result": "Rebound",
+   "page": 88
+  },
+  "17": {
+   "result": "Rebound",
+   "page": 88
+  },
+  "18": {
+   "result": "Rebound",
+   "page": 88
+  },
+  "19": {
+   "result": "Rebound",
+   "page": 88
+  },
+  "20": {
+   "result": "Rebound",
+   "page": 88
+  },
+  "21": {
+   "result": "Harm",
+   "page": 88
+  },
+  "22": {
+   "result": "Harm",
+   "page": 88
+  },
+  "23": {
+   "result": "Harm",
+   "page": 88
+  },
+  "24": {
+   "result": "Harm",
+   "page": 88
+  },
+  "25": {
+   "result": "Harm",
+   "page": 88
+  },
+  "26": {
+   "result": "Harm",
+   "page": 88
+  },
+  "27": {
+   "result": "Harm",
+   "page": 88
+  },
+  "28": {
+   "result": "Quench and Consumption",
+   "page": 88
+  },
+  "29": {
+   "result": "Quench and Consumption",
+   "page": 88
+  },
+  "30": {
+   "result": "Quench and Consumption",
+   "page": 88
+  },
+  "31": {
+   "result": "Quench and Consumption",
+   "page": 88
+  },
+  "32": {
+   "result": "Quench and Consumption",
+   "page": 88
+  },
+  "33": {
+   "result": "Quench and Consumption",
+   "page": 88
+  },
+  "34": {
+   "result": "Quench and Consumption",
+   "page": 88
+  },
+  "35": {
+   "result": "Normal",
+   "page": 88
+  },
+  "36": {
+   "result": "Normal",
+   "page": 88
+  },
+  "37": {
+   "result": "Normal",
+   "page": 88
+  },
+  "38": {
+   "result": "Normal",
+   "page": 88
+  },
+  "39": {
+   "result": "Normal",
+   "page": 88
+  },
+  "40": {
+   "result": "Normal",
+   "page": 88
+  },
+  "41": {
+   "result": "Normal",
+   "page": 88
+  },
+  "42": {
+   "result": "Normal",
+   "page": 88
+  },
+  "43": {
+   "result": "Normal",
+   "page": 88
+  },
+  "44": {
+   "result": "Normal",
+   "page": 88
+  },
+  "45": {
+   "result": "Normal",
+   "page": 88
+  },
+  "46": {
+   "result": "Normal",
+   "page": 88
+  },
+  "47": {
+   "result": "Normal",
+   "page": 88
+  },
+  "48": {
+   "result": "Normal",
+   "page": 88
+  },
+  "49": {
+   "result": "Normal",
+   "page": 88
+  },
+  "50": {
+   "result": "Normal",
+   "page": 88
+  },
+  "51": {
+   "result": "To review",
+   "page": 88
+  },
+  "52": {
+   "result": "To review",
+   "page": 88
+  },
+  "53": {
+   "result": "To review",
+   "page": 88
+  },
+  "54": {
+   "result": "To review",
+   "page": 88
+  },
+  "55": {
+   "result": "To review",
+   "page": 88
+  },
+  "56": {
+   "result": "To review",
+   "page": 88
+  },
+  "57": {
+   "result": "To review",
+   "page": 88
+  },
+  "58": {
+   "result": "To review",
+   "page": 88
+  },
+  "59": {
+   "result": "To review",
+   "page": 88
+  },
+  "60": {
+   "result": "Quench",
+   "page": 88
+  },
+  "61": {
+   "result": "Quench",
+   "page": 88
+  },
+  "62": {
+   "result": "Quench",
+   "page": 88
+  },
+  "63": {
+   "result": "Quench",
+   "page": 88
+  },
+  "64": {
+   "result": "Quench",
+   "page": 88
+  },
+  "65": {
+   "result": "Quench",
+   "page": 88
+  },
+  "66": {
+   "result": "Quench",
+   "page": 88
+  },
+  "67": {
+   "result": "Heal",
+   "page": 88
+  },
+  "68": {
+   "result": "Heal",
+   "page": 88
+  },
+  "69": {
+   "result": "Heal",
+   "page": 88
+  },
+  "70": {
+   "result": "Heal",
+   "page": 88
+  },
+  "71": {
+   "result": "Heal",
+   "page": 88
+  },
+  "72": {
+   "result": "Heal",
+   "page": 88
+  },
+  "73": {
+   "result": "Heal",
+   "page": 88
+  },
+  "74": {
+   "result": "Random",
+   "page": 88
+  },
+  "75": {
+   "result": "Random",
+   "page": 88
+  },
+  "76": {
+   "result": "Random",
+   "page": 88
+  },
+  "77": {
+   "result": "Random",
+   "page": 88
+  },
+  "78": {
+   "result": "Random",
+   "page": 88
+  },
+  "79": {
+   "result": "Random",
+   "page": 88
+  },
+  "80": {
+   "result": "Random",
+   "page": 88
+  },
+  "81": {
+   "result": "To review",
+   "page": 88
+  },
+  "82": {
+   "result": "To review",
+   "page": 88
+  },
+  "83": {
+   "result": "To review",
+   "page": 88
+  },
+  "84": {
+   "result": "To review",
+   "page": 88
+  },
+  "85": {
+   "result": "To review",
+   "page": 88
+  },
+  "86": {
+   "result": "To review",
+   "page": 88
+  },
+  "87": {
+   "result": "To review",
+   "page": 88
+  },
+  "88": {
+   "result": "Double effect",
+   "page": 88
+  },
+  "89": {
+   "result": "Double effect",
+   "page": 88
+  },
+  "90": {
+   "result": "Double effect",
+   "page": 88
+  },
+  "91": {
+   "result": "Double effect",
+   "page": 88
+  },
+  "92": {
+   "result": "Double effect",
+   "page": 88
+  },
+  "93": {
+   "result": "Double effect",
+   "page": 88
+  },
+  "94": {
+   "result": "Double effect",
+   "page": 88
+  },
+  "95": {
+   "result": "No Save",
+   "page": 88
+  },
+  "96": {
+   "result": "No Save",
+   "page": 88
+  },
+  "97": {
+   "result": "No Save",
+   "page": 88
+  },
+  "98": {
+   "result": "No Save",
+   "page": 88
+  },
+  "99": {
+   "result": "No Save",
+   "page": 88
+  },
+  "100": {
+   "result": "Calling the Zephyr",
+   "page": 88
+  }
+ },
+ "fx": {
+  "1": {
+   "note": {
+    "en": "A signal is sent throughout the Chambers until it reaches the closest Decan House. During the next Raid, one of the Twelve Punishments will appear in the Chamber and fight the Raiders in any Chamber they visit. Roll once on the Decan House Encounter table 3.7.",
+    "es": "Una señal recorre las cámaras hasta la Decan House más cercana: en la próxima incursión uno de los Doce Castigos aparece en la cámara y pelea con los Incursores en cualquier cámara que visiten; se tira una vez en la tabla 3.7 (Decan House Encounter, p. 114)"
+   },
+   "page": 88
+  },
+  "2": {
+   "note": {
+    "en": "The School Forbiddance condition activates twice. Roll twice on the School Forbiddance table 3.4 and apply them.",
+    "es": "La condición School Forbiddance se activa dos veces: se tira dos veces en la tabla 3.4 (School Forbiddance, p. 94) y se aplican las dos"
+   },
+   "page": 88
+  },
+  "3": {
+   "note": {
+    "en": "The School Forbiddance condition activates twice. Roll twice on the School Forbiddance table 3.4 and apply them.",
+    "es": "La condición School Forbiddance se activa dos veces: se tira dos veces en la tabla 3.4 (School Forbiddance, p. 94) y se aplican las dos"
+   },
+   "page": 88
+  },
+  "4": {
+   "note": {
+    "en": "The School Forbiddance condition activates twice. Roll twice on the School Forbiddance table 3.4 and apply them.",
+    "es": "La condición School Forbiddance se activa dos veces: se tira dos veces en la tabla 3.4 (School Forbiddance, p. 94) y se aplican las dos"
+   },
+   "page": 88
+  },
+  "5": {
+   "note": {
+    "en": "The School Forbiddance condition activates twice. Roll twice on the School Forbiddance table 3.4 and apply them.",
+    "es": "La condición School Forbiddance se activa dos veces: se tira dos veces en la tabla 3.4 (School Forbiddance, p. 94) y se aplican las dos"
+   },
+   "page": 88
+  },
+  "6": {
+   "note": {
+    "en": "The School Forbiddance condition activates twice. Roll twice on the School Forbiddance table 3.4 and apply them.",
+    "es": "La condición School Forbiddance se activa dos veces: se tira dos veces en la tabla 3.4 (School Forbiddance, p. 94) y se aplican las dos"
+   },
+   "page": 88
+  },
+  "7": {
+   "note": {
+    "en": "The spell or magical effect rebounds on the caster with twice the effect (double damage, area of effect, and duration). The caster is not entitled to a saving throw. If the effect cannot rebound, it fails.",
+    "es": "El conjuro o efecto mágico rebota con el doble de efecto (daño, área y duración) sobre quien lo lanzó, que no tiene prueba de salvación; si el efecto no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "8": {
+   "note": {
+    "en": "The spell or magical effect rebounds on the caster with twice the effect (double damage, area of effect, and duration). The caster is not entitled to a saving throw. If the effect cannot rebound, it fails.",
+    "es": "El conjuro o efecto mágico rebota con el doble de efecto (daño, área y duración) sobre quien lo lanzó, que no tiene prueba de salvación; si el efecto no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "9": {
+   "note": {
+    "en": "The spell or magical effect rebounds on the caster with twice the effect (double damage, area of effect, and duration). The caster is not entitled to a saving throw. If the effect cannot rebound, it fails.",
+    "es": "El conjuro o efecto mágico rebota con el doble de efecto (daño, área y duración) sobre quien lo lanzó, que no tiene prueba de salvación; si el efecto no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "10": {
+   "note": {
+    "en": "The spell or magical effect rebounds on the caster with twice the effect (double damage, area of effect, and duration). The caster is not entitled to a saving throw. If the effect cannot rebound, it fails.",
+    "es": "El conjuro o efecto mágico rebota con el doble de efecto (daño, área y duración) sobre quien lo lanzó, que no tiene prueba de salvación; si el efecto no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "11": {
+   "note": {
+    "en": "The spell or magical effect rebounds on the caster with twice the effect (double damage, area of effect, and duration). The caster is not entitled to a saving throw. If the effect cannot rebound, it fails.",
+    "es": "El conjuro o efecto mágico rebota con el doble de efecto (daño, área y duración) sobre quien lo lanzó, que no tiene prueba de salvación; si el efecto no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "12": {
+   "note": {
+    "en": "The spell or magical effect rebounds on the caster with twice the effect (double damage, area of effect, and duration). The caster is not entitled to a saving throw. If the effect cannot rebound, it fails.",
+    "es": "El conjuro o efecto mágico rebota con el doble de efecto (daño, área y duración) sobre quien lo lanzó, que no tiene prueba de salvación; si el efecto no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "13": {
+   "note": {
+    "en": "The spell or magical effect rebounds on the caster with twice the effect (double damage, area of effect, and duration). The caster is not entitled to a saving throw. If the effect cannot rebound, it fails.",
+    "es": "El conjuro o efecto mágico rebota con el doble de efecto (daño, área y duración) sobre quien lo lanzó, que no tiene prueba de salvación; si el efecto no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "14": {
+   "note": {
+    "en": "The spell rebounds on the caster with normal effect. If it cannot rebound, it fails. Saving throw allowed.",
+    "es": "El conjuro rebota en quien lo lanzó con efecto normal, y con prueba de salvación; si no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "15": {
+   "note": {
+    "en": "The spell rebounds on the caster with normal effect. If it cannot rebound, it fails. Saving throw allowed.",
+    "es": "El conjuro rebota en quien lo lanzó con efecto normal, y con prueba de salvación; si no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "16": {
+   "note": {
+    "en": "The spell rebounds on the caster with normal effect. If it cannot rebound, it fails. Saving throw allowed.",
+    "es": "El conjuro rebota en quien lo lanzó con efecto normal, y con prueba de salvación; si no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "17": {
+   "note": {
+    "en": "The spell rebounds on the caster with normal effect. If it cannot rebound, it fails. Saving throw allowed.",
+    "es": "El conjuro rebota en quien lo lanzó con efecto normal, y con prueba de salvación; si no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "18": {
+   "note": {
+    "en": "The spell rebounds on the caster with normal effect. If it cannot rebound, it fails. Saving throw allowed.",
+    "es": "El conjuro rebota en quien lo lanzó con efecto normal, y con prueba de salvación; si no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "19": {
+   "note": {
+    "en": "The spell rebounds on the caster with normal effect. If it cannot rebound, it fails. Saving throw allowed.",
+    "es": "El conjuro rebota en quien lo lanzó con efecto normal, y con prueba de salvación; si no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "20": {
+   "note": {
+    "en": "The spell rebounds on the caster with normal effect. If it cannot rebound, it fails. Saving throw allowed.",
+    "es": "El conjuro rebota en quien lo lanzó con efecto normal, y con prueba de salvación; si no puede rebotar, falla"
+   },
+   "page": 88
+  },
+  "21": {
+   "note": {
+    "en": "The spell does not work and transforms into negative or necrotic energy. Everyone (friend or foe) within a medium-range to the caster receives 1d8 of necrotic damage per caster level of the original source. Stamina halves (Average DC).",
+    "es": "El conjuro falla y se vuelve energía negativa o necrótica: todos los que estén a distancia media de quien lo lanzó, amigos o no, reciben 1d8 de daño necrótico por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media)"
+   },
+   "page": 88
+  },
+  "22": {
+   "note": {
+    "en": "The spell does not work and transforms into negative or necrotic energy. Everyone (friend or foe) within a medium-range to the caster receives 1d8 of necrotic damage per caster level of the original source. Stamina halves (Average DC).",
+    "es": "El conjuro falla y se vuelve energía negativa o necrótica: todos los que estén a distancia media de quien lo lanzó, amigos o no, reciben 1d8 de daño necrótico por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media)"
+   },
+   "page": 88
+  },
+  "23": {
+   "note": {
+    "en": "The spell does not work and transforms into negative or necrotic energy. Everyone (friend or foe) within a medium-range to the caster receives 1d8 of necrotic damage per caster level of the original source. Stamina halves (Average DC).",
+    "es": "El conjuro falla y se vuelve energía negativa o necrótica: todos los que estén a distancia media de quien lo lanzó, amigos o no, reciben 1d8 de daño necrótico por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media)"
+   },
+   "page": 88
+  },
+  "24": {
+   "note": {
+    "en": "The spell does not work and transforms into negative or necrotic energy. Everyone (friend or foe) within a medium-range to the caster receives 1d8 of necrotic damage per caster level of the original source. Stamina halves (Average DC).",
+    "es": "El conjuro falla y se vuelve energía negativa o necrótica: todos los que estén a distancia media de quien lo lanzó, amigos o no, reciben 1d8 de daño necrótico por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media)"
+   },
+   "page": 88
+  },
+  "25": {
+   "note": {
+    "en": "The spell does not work and transforms into negative or necrotic energy. Everyone (friend or foe) within a medium-range to the caster receives 1d8 of necrotic damage per caster level of the original source. Stamina halves (Average DC).",
+    "es": "El conjuro falla y se vuelve energía negativa o necrótica: todos los que estén a distancia media de quien lo lanzó, amigos o no, reciben 1d8 de daño necrótico por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media)"
+   },
+   "page": 88
+  },
+  "26": {
+   "note": {
+    "en": "The spell does not work and transforms into negative or necrotic energy. Everyone (friend or foe) within a medium-range to the caster receives 1d8 of necrotic damage per caster level of the original source. Stamina halves (Average DC).",
+    "es": "El conjuro falla y se vuelve energía negativa o necrótica: todos los que estén a distancia media de quien lo lanzó, amigos o no, reciben 1d8 de daño necrótico por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media)"
+   },
+   "page": 88
+  },
+  "27": {
+   "note": {
+    "en": "The spell does not work and transforms into negative or necrotic energy. Everyone (friend or foe) within a medium-range to the caster receives 1d8 of necrotic damage per caster level of the original source. Stamina halves (Average DC).",
+    "es": "El conjuro falla y se vuelve energía negativa o necrótica: todos los que estén a distancia media de quien lo lanzó, amigos o no, reciben 1d8 de daño necrótico por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media)"
+   },
+   "page": 88
+  },
+  "28": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is consumed. An item loses charges.",
+    "es": "El conjuro no funciona y se consume todo lo que se usó para lanzarlo; si fue un objeto, pierde cargas"
+   },
+   "page": 88
+  },
+  "29": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is consumed. An item loses charges.",
+    "es": "El conjuro no funciona y se consume todo lo que se usó para lanzarlo; si fue un objeto, pierde cargas"
+   },
+   "page": 88
+  },
+  "30": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is consumed. An item loses charges.",
+    "es": "El conjuro no funciona y se consume todo lo que se usó para lanzarlo; si fue un objeto, pierde cargas"
+   },
+   "page": 88
+  },
+  "31": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is consumed. An item loses charges.",
+    "es": "El conjuro no funciona y se consume todo lo que se usó para lanzarlo; si fue un objeto, pierde cargas"
+   },
+   "page": 88
+  },
+  "32": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is consumed. An item loses charges.",
+    "es": "El conjuro no funciona y se consume todo lo que se usó para lanzarlo; si fue un objeto, pierde cargas"
+   },
+   "page": 88
+  },
+  "33": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is consumed. An item loses charges.",
+    "es": "El conjuro no funciona y se consume todo lo que se usó para lanzarlo; si fue un objeto, pierde cargas"
+   },
+   "page": 88
+  },
+  "34": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is consumed. An item loses charges.",
+    "es": "El conjuro no funciona y se consume todo lo que se usó para lanzarlo; si fue un objeto, pierde cargas"
+   },
+   "page": 88
+  },
+  "35": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "36": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "37": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "38": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "39": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "40": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "41": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "42": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "43": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "44": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "45": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "46": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "47": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "48": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "49": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "50": {
+   "note": {
+    "en": "The spell functions normally.",
+    "es": "El conjuro funciona con normalidad"
+   },
+   "page": 88
+  },
+  "51": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "52": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "53": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "54": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "55": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "56": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "57": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "58": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "59": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "60": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is not consumed. An item does not use charges.",
+    "es": "El conjuro no funciona, pero no se consume nada de lo que se usó para lanzarlo; si fue un objeto, no gasta cargas"
+   },
+   "page": 88
+  },
+  "61": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is not consumed. An item does not use charges.",
+    "es": "El conjuro no funciona, pero no se consume nada de lo que se usó para lanzarlo; si fue un objeto, no gasta cargas"
+   },
+   "page": 88
+  },
+  "62": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is not consumed. An item does not use charges.",
+    "es": "El conjuro no funciona, pero no se consume nada de lo que se usó para lanzarlo; si fue un objeto, no gasta cargas"
+   },
+   "page": 88
+  },
+  "63": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is not consumed. An item does not use charges.",
+    "es": "El conjuro no funciona, pero no se consume nada de lo que se usó para lanzarlo; si fue un objeto, no gasta cargas"
+   },
+   "page": 88
+  },
+  "64": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is not consumed. An item does not use charges.",
+    "es": "El conjuro no funciona, pero no se consume nada de lo que se usó para lanzarlo; si fue un objeto, no gasta cargas"
+   },
+   "page": 88
+  },
+  "65": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is not consumed. An item does not use charges.",
+    "es": "El conjuro no funciona, pero no se consume nada de lo que se usó para lanzarlo; si fue un objeto, no gasta cargas"
+   },
+   "page": 88
+  },
+  "66": {
+   "note": {
+    "en": "The spell does not function. Everything used to cast it is not consumed. An item does not use charges.",
+    "es": "El conjuro no funciona, pero no se consume nada de lo que se usó para lanzarlo; si fue un objeto, no gasta cargas"
+   },
+   "page": 88
+  },
+  "67": {
+   "note": {
+    "en": "The spell does not work and transforms into positive or radiant energy. Everyone (friend or foe) within a medium-range to the caster heals 1d8 of damage per caster level of the original source. Stamina halves (Average DC). It counts as radiant damage for the undead.",
+    "es": "El conjuro falla y se vuelve energía positiva o radiante: todos los que estén a distancia media de quien lo lanzó, amigos o no, curan 1d8 de daño por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media), y en los no muertos cuenta como daño radiante"
+   },
+   "page": 88
+  },
+  "68": {
+   "note": {
+    "en": "The spell does not work and transforms into positive or radiant energy. Everyone (friend or foe) within a medium-range to the caster heals 1d8 of damage per caster level of the original source. Stamina halves (Average DC). It counts as radiant damage for the undead.",
+    "es": "El conjuro falla y se vuelve energía positiva o radiante: todos los que estén a distancia media de quien lo lanzó, amigos o no, curan 1d8 de daño por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media), y en los no muertos cuenta como daño radiante"
+   },
+   "page": 88
+  },
+  "69": {
+   "note": {
+    "en": "The spell does not work and transforms into positive or radiant energy. Everyone (friend or foe) within a medium-range to the caster heals 1d8 of damage per caster level of the original source. Stamina halves (Average DC). It counts as radiant damage for the undead.",
+    "es": "El conjuro falla y se vuelve energía positiva o radiante: todos los que estén a distancia media de quien lo lanzó, amigos o no, curan 1d8 de daño por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media), y en los no muertos cuenta como daño radiante"
+   },
+   "page": 88
+  },
+  "70": {
+   "note": {
+    "en": "The spell does not work and transforms into positive or radiant energy. Everyone (friend or foe) within a medium-range to the caster heals 1d8 of damage per caster level of the original source. Stamina halves (Average DC). It counts as radiant damage for the undead.",
+    "es": "El conjuro falla y se vuelve energía positiva o radiante: todos los que estén a distancia media de quien lo lanzó, amigos o no, curan 1d8 de daño por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media), y en los no muertos cuenta como daño radiante"
+   },
+   "page": 88
+  },
+  "71": {
+   "note": {
+    "en": "The spell does not work and transforms into positive or radiant energy. Everyone (friend or foe) within a medium-range to the caster heals 1d8 of damage per caster level of the original source. Stamina halves (Average DC). It counts as radiant damage for the undead.",
+    "es": "El conjuro falla y se vuelve energía positiva o radiante: todos los que estén a distancia media de quien lo lanzó, amigos o no, curan 1d8 de daño por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media), y en los no muertos cuenta como daño radiante"
+   },
+   "page": 88
+  },
+  "72": {
+   "note": {
+    "en": "The spell does not work and transforms into positive or radiant energy. Everyone (friend or foe) within a medium-range to the caster heals 1d8 of damage per caster level of the original source. Stamina halves (Average DC). It counts as radiant damage for the undead.",
+    "es": "El conjuro falla y se vuelve energía positiva o radiante: todos los que estén a distancia media de quien lo lanzó, amigos o no, curan 1d8 de daño por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media), y en los no muertos cuenta como daño radiante"
+   },
+   "page": 88
+  },
+  "73": {
+   "note": {
+    "en": "The spell does not work and transforms into positive or radiant energy. Everyone (friend or foe) within a medium-range to the caster heals 1d8 of damage per caster level of the original source. Stamina halves (Average DC). It counts as radiant damage for the undead.",
+    "es": "El conjuro falla y se vuelve energía positiva o radiante: todos los que estén a distancia media de quien lo lanzó, amigos o no, curan 1d8 de daño por nivel de lanzador de la fuente original; Stamina lo reduce a la mitad (Dificultad Media), y en los no muertos cuenta como daño radiante"
+   },
+   "page": 88
+  },
+  "74": {
+   "note": {
+    "en": "The spell affects a random target or area.",
+    "es": "El conjuro afecta a un objetivo o a un área al azar"
+   },
+   "page": 88
+  },
+  "75": {
+   "note": {
+    "en": "The spell affects a random target or area.",
+    "es": "El conjuro afecta a un objetivo o a un área al azar"
+   },
+   "page": 88
+  },
+  "76": {
+   "note": {
+    "en": "The spell affects a random target or area.",
+    "es": "El conjuro afecta a un objetivo o a un área al azar"
+   },
+   "page": 88
+  },
+  "77": {
+   "note": {
+    "en": "The spell affects a random target or area.",
+    "es": "El conjuro afecta a un objetivo o a un área al azar"
+   },
+   "page": 88
+  },
+  "78": {
+   "note": {
+    "en": "The spell affects a random target or area.",
+    "es": "El conjuro afecta a un objetivo o a un área al azar"
+   },
+   "page": 88
+  },
+  "79": {
+   "note": {
+    "en": "The spell affects a random target or area.",
+    "es": "El conjuro afecta a un objetivo o a un área al azar"
+   },
+   "page": 88
+  },
+  "80": {
+   "note": {
+    "en": "The spell affects a random target or area.",
+    "es": "El conjuro afecta a un objetivo o a un área al azar"
+   },
+   "page": 88
+  },
+  "81": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "82": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "83": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "84": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "85": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "86": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "87": {
+   "note": {
+    "en": "Table 3.1 has no result for 51-59 or 81-87 (p. 88): the book skips them, so the Maze Master decides",
+    "es": "La Tabla 3.1 no trae resultado para el 51-59 ni el 81-87 (p. 88): el libro se los salta, así que decide el Amo del Laberinto"
+   },
+   "page": 88,
+   "gap": true
+  },
+  "88": {
+   "note": {
+    "en": "The spell functions with twice the effect (double damage, area of effect, and duration). If it cannot, it fails.",
+    "es": "El conjuro funciona con el doble de efecto (daño, área y duración); si no puede, falla"
+   },
+   "page": 88
+  },
+  "89": {
+   "note": {
+    "en": "The spell functions with twice the effect (double damage, area of effect, and duration). If it cannot, it fails.",
+    "es": "El conjuro funciona con el doble de efecto (daño, área y duración); si no puede, falla"
+   },
+   "page": 88
+  },
+  "90": {
+   "note": {
+    "en": "The spell functions with twice the effect (double damage, area of effect, and duration). If it cannot, it fails.",
+    "es": "El conjuro funciona con el doble de efecto (daño, área y duración); si no puede, falla"
+   },
+   "page": 88
+  },
+  "91": {
+   "note": {
+    "en": "The spell functions with twice the effect (double damage, area of effect, and duration). If it cannot, it fails.",
+    "es": "El conjuro funciona con el doble de efecto (daño, área y duración); si no puede, falla"
+   },
+   "page": 88
+  },
+  "92": {
+   "note": {
+    "en": "The spell functions with twice the effect (double damage, area of effect, and duration). If it cannot, it fails.",
+    "es": "El conjuro funciona con el doble de efecto (daño, área y duración); si no puede, falla"
+   },
+   "page": 88
+  },
+  "93": {
+   "note": {
+    "en": "The spell functions with twice the effect (double damage, area of effect, and duration). If it cannot, it fails.",
+    "es": "El conjuro funciona con el doble de efecto (daño, área y duración); si no puede, falla"
+   },
+   "page": 88
+  },
+  "94": {
+   "note": {
+    "en": "The spell functions with twice the effect (double damage, area of effect, and duration). If it cannot, it fails.",
+    "es": "El conjuro funciona con el doble de efecto (daño, área y duración); si no puede, falla"
+   },
+   "page": 88
+  },
+  "95": {
+   "note": {
+    "en": "The spell functions normally, but the spell is so powerful that target or targets are not entitled to a saving throw.",
+    "es": "El conjuro funciona con normalidad, pero es tan potente que los objetivos no tienen prueba de salvación"
+   },
+   "page": 88
+  },
+  "96": {
+   "note": {
+    "en": "The spell functions normally, but the spell is so powerful that target or targets are not entitled to a saving throw.",
+    "es": "El conjuro funciona con normalidad, pero es tan potente que los objetivos no tienen prueba de salvación"
+   },
+   "page": 88
+  },
+  "97": {
+   "note": {
+    "en": "The spell functions normally, but the spell is so powerful that target or targets are not entitled to a saving throw.",
+    "es": "El conjuro funciona con normalidad, pero es tan potente que los objetivos no tienen prueba de salvación"
+   },
+   "page": 88
+  },
+  "98": {
+   "note": {
+    "en": "The spell functions normally, but the spell is so powerful that target or targets are not entitled to a saving throw.",
+    "es": "El conjuro funciona con normalidad, pero es tan potente que los objetivos no tienen prueba de salvación"
+   },
+   "page": 88
+  },
+  "99": {
+   "note": {
+    "en": "The spell functions normally, but the spell is so powerful that target or targets are not entitled to a saving throw.",
+    "es": "El conjuro funciona con normalidad, pero es tan potente que los objetivos no tienen prueba de salvación"
+   },
+   "page": 88
+  },
+  "100": {
+   "note": {
+    "en": "A signal is sent through the Chambers until it reaches the closest Zephyr. During the next Raid, one of the Ten Zephyr will appear in the Chamber and attend a Raiders' request. Roll once on the Zephyr Encounter table 5.5.",
+    "es": "Una señal recorre las cámaras hasta el Zephyr más cercano: en la próxima incursión uno de los diez aparece en la cámara y atiende una petición de los Incursores; se tira una vez en la tabla 5.5 (Zephyr Encounter, p. 415)"
+   },
+   "page": 88
+  }
+ }
+}

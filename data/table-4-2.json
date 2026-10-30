@@ -1,0 +1,406 @@
+{
+  "table": "4.2",
+  "page": 174,
+  "results": {
+    "1": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "2": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "3": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "4": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "5": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "6": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "7": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "8": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "9": {
+      "result": "Tea herbs",
+      "page": 174
+    },
+    "10": {
+      "result": "Spices",
+      "page": 174
+    },
+    "11": {
+      "result": "Spices",
+      "page": 174
+    },
+    "12": {
+      "result": "Spices",
+      "page": 174
+    },
+    "13": {
+      "result": "Spices",
+      "page": 174
+    },
+    "14": {
+      "result": "Spices",
+      "page": 174
+    },
+    "15": {
+      "result": "Spices",
+      "page": 174
+    },
+    "16": {
+      "result": "Spices",
+      "page": 174
+    },
+    "17": {
+      "result": "Spices",
+      "page": 174
+    },
+    "18": {
+      "result": "Spices",
+      "page": 174
+    },
+    "19": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "20": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "21": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "22": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "23": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "24": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "25": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "26": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "27": {
+      "result": "Fruits (1d6 units)",
+      "page": 174
+    },
+    "28": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "29": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "30": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "31": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "32": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "33": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "34": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "35": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "36": {
+      "result": "Nuts",
+      "page": 174
+    },
+    "37": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "38": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "39": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "40": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "41": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "42": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "43": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "44": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "45": {
+      "result": "Mushrooms (1d6 units)",
+      "page": 174
+    },
+    "46": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "47": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "48": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "49": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "50": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "51": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "52": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "53": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "54": {
+      "result": "Cereal (1d8 units)",
+      "page": 174
+    },
+    "55": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "56": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "57": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "58": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "59": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "60": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "61": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "62": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "63": {
+      "result": "Vegetables (1d10 units)",
+      "page": 174
+    },
+    "64": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "65": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "66": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "67": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "68": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "69": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "70": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "71": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "72": {
+      "result": "Poisonous herbs",
+      "page": 174
+    },
+    "73": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "74": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "75": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "76": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "77": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "78": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "79": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "80": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "81": {
+      "result": "Medicinal herbs",
+      "page": 174
+    },
+    "82": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "83": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "84": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "85": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "86": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "87": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "88": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "89": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "90": {
+      "result": "Magical Herbs",
+      "page": 174
+    },
+    "91": {
+      "result": "Everglowing Mushroom (1d4 units)",
+      "page": 174
+    },
+    "92": {
+      "result": "Everglowing Mushroom (1d4 units)",
+      "page": 174
+    },
+    "93": {
+      "result": "Everglowing Mushroom (1d4 units)",
+      "page": 174
+    },
+    "94": {
+      "result": "Everglowing Mushroom (1d4 units)",
+      "page": 174
+    },
+    "95": {
+      "result": "Everglowing Mushroom (1d4 units)",
+      "page": 174
+    },
+    "96": {
+      "result": "Everglowing Mushroom (1d4 units)",
+      "page": 174
+    },
+    "97": {
+      "result": "Everglowing Mushroom (1d4 units)",
+      "page": 174
+    },
+    "98": {
+      "result": "Blue Flower (1d4 units)",
+      "page": 174
+    },
+    "99": {
+      "result": "Blue Flower (1d4 units)",
+      "page": 174
+    },
+    "100": {
+      "result": "Blue Flower (1d4 units)",
+      "page": 174
+    }
+  }
+}

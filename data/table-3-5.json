@@ -1,0 +1,417 @@
+{
+  "table": "3.5",
+  "die": "d%",
+  "page": 108,
+  "results": {
+    "1": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "2": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "3": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "4": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "5": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "6": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "7": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "8": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "9": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "10": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "11": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "12": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "13": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "14": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "15": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "16": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "17": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "18": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "19": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "20": {
+      "result": "1d4+1 Mazeknights",
+      "page": 108
+    },
+    "21": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "22": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "23": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "24": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "25": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "26": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "27": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "28": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "29": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "30": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "31": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "32": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "33": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "34": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "35": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "36": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "37": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "38": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "39": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "40": {
+      "result": "1d6+1 Hitmen",
+      "page": 108
+    },
+    "41": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "42": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "43": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "44": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "45": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "46": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "47": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "48": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "49": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "50": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "51": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "52": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "53": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "54": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "55": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "56": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "57": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "58": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "59": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "60": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "61": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "62": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "63": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "64": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "65": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "66": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "67": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "68": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "69": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "70": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "71": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "72": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "73": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "74": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "75": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "76": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "77": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "78": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "79": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "80": {
+      "result": "No additional Inhabitant",
+      "page": 108
+    },
+    "81": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "82": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "83": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "84": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "85": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "86": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "87": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "88": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "89": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "90": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "91": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "92": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "93": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "94": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "95": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "96": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "97": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "98": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "99": {
+      "result": "1d4+1 Raiders",
+      "page": 108
+    },
+    "100": {
+      "result": "Zephyr",
+      "page": 108
+    }
+  },
+  "note": {
+    "en": "One additional visitor encounter, besides the normal Inhabitants roll (p. 105). Printed 00 means 100.",
+    "es": "Un encuentro adicional de visitantes, además de la tirada normal de Habitantes (p. 105). El 00 impreso equivale a 100."
+  },
+  "special": {
+    "No additional Inhabitant": {
+      "en": "No additional visitor from this table; this does not cancel the normal Inhabitants roll.",
+      "es": "Esta tabla no añade visitantes; no cancela la tirada normal de Habitantes."
+    }
+  }
+}
