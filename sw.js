@@ -1,6 +1,6 @@
-// Sin conexión: guarda la app entera la primera vez y la sirve desde ahí.
-// Lo nuevo llega en la siguiente visita. Sube VERSION si cambia la lista de archivos.
-const VERSION = "bs-2";
+// Sin conexión: guarda la app entera la primera vez. Con red, siempre sirve lo nuevo;
+// lo guardado sólo sale si no hay red, así nunca se mezclan archivos de dos versiones.
+const VERSION = "bs-3";
 const FILES = [
   "./", "index.html", "manifest.webmanifest", "css/app.css",
   "js/main.js", "js/engine.js", "js/i18n.js", "js/chamber.js", "js/reference.js", "js/util.js",
@@ -15,7 +15,9 @@ const FILES = [
 ];
 
 self.addEventListener("install", (ev) => {
-  ev.waitUntil(caches.open(VERSION).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));
+  ev.waitUntil(caches.open(VERSION)
+    .then((c) => c.addAll(FILES.map((f) => new Request(f, { cache: "reload" }))))
+    .then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (ev) => {
@@ -24,13 +26,18 @@ self.addEventListener("activate", (ev) => {
     .then(() => self.clients.claim()));
 });
 
-// Lo guardado sale al instante; mientras, se pide a la red y se guarda para la próxima vez.
+// Primero la red (sin la caché del navegador); si falla, lo guardado.
 self.addEventListener("fetch", (ev) => {
   if (ev.request.method !== "GET" || new URL(ev.request.url).origin !== location.origin) return;
   ev.respondWith(caches.open(VERSION).then(async (cache) => {
-    const hit = await cache.match(ev.request, { ignoreSearch: true });
-    const fresh = fetch(ev.request).then((res) => { if (res.ok) cache.put(ev.request, res.clone()); return res; });
-    if (hit) { ev.waitUntil(fresh.catch(() => {})); return hit; }
-    return fresh;
+    try {
+      const res = await fetch(ev.request, { cache: "no-cache" });
+      if (res.ok) cache.put(ev.request, res.clone());
+      return res;
+    } catch (err) {
+      const hit = await cache.match(ev.request, { ignoreSearch: true });
+      if (hit) return hit;
+      throw err;
+    }
   }));
 });

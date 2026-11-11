@@ -44,6 +44,7 @@ function render() {
   keepFocus(() => {
     main.innerHTML = view === "ref" ? reference.render(sub) : view === "log" ? renderLog() : chamber.render();
   });
+  document.documentElement.dataset.ready = "1";
 }
 
 async function start() {
@@ -60,6 +61,7 @@ async function start() {
   } catch (err) {
     console.error(err);
     main.innerHTML = `<p class="is-invalid">${h(T("loadError"))}</p>`;
+    document.documentElement.dataset.ready = "1";
     return;
   }
   // Las vistas escuchan en el mismo contenedor; cada una ignora lo que no es suyo.

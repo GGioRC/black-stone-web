@@ -19,5 +19,20 @@
   </header>
   <main id="main" class="app-main" tabindex="-1"></main>
   <script type="module" src="js/main.js"></script>
+  <script>
+    // Si la app no arranca (archivos guardados de otra versión), ofrece repararla: borra lo guardado y recarga.
+    setTimeout(function () {
+      if (document.documentElement.dataset.ready) return;
+      var main = document.getElementById("main");
+      main.innerHTML = '<p class="empty">La app no cargó. · It did not load.</p><div class="chamber-actions"><button type="button" class="primary" id="repair">Reparar · Repair</button></div>';
+      document.getElementById("repair").onclick = async function () {
+        try {
+          if (navigator.serviceWorker) for (const r of await navigator.serviceWorker.getRegistrations()) await r.unregister();
+          if (window.caches) for (const k of await caches.keys()) await caches.delete(k);
+        } catch (e) { /* recargar igual */ }
+        location.reload();
+      };
+    }, 8000);
+  </script>
 </body>
 </html>
