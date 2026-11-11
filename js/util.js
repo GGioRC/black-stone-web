@@ -16,6 +16,14 @@ export const store = {
   },
 };
 
+/** Un botón que se confirma en la misma página: confirm() no sale en todos los navegadores y ahí cuenta como «No». */
+export function askButton(asking, action, label, question, yes, no) {
+  if (asking !== action) return `<button type="button" class="quiet" data-action="${action}">${h(label)}</button>`;
+  return `<span class="ask" role="group" aria-label="${h(question)}"><span class="ask-q">${h(question)}</span>
+    <button type="button" class="danger" data-action="${action}-yes">${h(yes)}</button>
+    <button type="button" class="quiet" data-action="ask-cancel">${h(no)}</button></span>`;
+}
+
 /** Junta resultados iguales seguidos de una tabla d%: «1–2 Padded Armor». */
 export function ranges(results) {
   const rows = Object.entries(results).map(([k, v]) => [+k, v]).sort((a, b) => a[0] - b[0]);

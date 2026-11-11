@@ -2,7 +2,7 @@
 // El marcado lleva clases con nombre (roll-section, derived-row, dice-row…) para el diseño final.
 import * as E from "./engine.js";
 import { T } from "./i18n.js";
-import { h, idOf, store } from "./util.js";
+import { askButton, h, idOf, store } from "./util.js";
 
 const EMPTY = () => ({ rolls: {}, typed: {}, buffers: {}, round: 0, locked: false, mimicHidden: true,
   live: [], liveBuffers: {}, deaths: 0 });
@@ -141,7 +141,7 @@ export class ChamberView {
       <label class="mimic-switch"><input type="checkbox" data-action="mimics" ${this.mimics ? "checked" : ""}> ${h(T("useMimics"))} <span class="page">${h(T("page")(85))}</span></label>
       <div class="chamber-actions">
         <button type="button" class="primary" data-action="enter">${h(T("enter"))}</button>
-        ${Object.keys(d.rolls).length ? `<button type="button" class="quiet" data-action="new">${h(T("newChamber"))}</button>` : ""}
+        ${Object.keys(d.rolls).length ? askButton(this.asking, "new", T("newChamber"), T("confirmNew"), T("yes"), T("cancel")) : ""}
       </div>
     </div>`;
   }
@@ -437,7 +437,7 @@ export class ChamberView {
         </div>
         <details class="close-notes"><summary>${h(T("notes"))}</summary><textarea name="notes" rows="3" aria-label="${h(T("notes"))}"></textarea></details>
         <div class="chamber-actions"><button type="submit" class="primary">${h(T("save"))}</button>
-          <button type="button" class="quiet" data-action="discard">${h(T("discard"))}</button></div>
+          ${askButton(this.asking, "discard", T("discard"), T("confirmDiscard"), T("yes"), T("cancel"))}</div>
       </form>
     </section>`;
   }
@@ -516,8 +516,9 @@ export class ChamberView {
       const a = el.dataset.action;
       if (a === "mimic-toggle") this.d.mimicHidden = !this.d.mimicHidden;
       else if (a === "enter") { if (!this.enter(root)) return; window.scrollTo({ top: 0 }); }
-      else if (a === "new") { if (!confirm(T("confirmNew"))) return; this.reset(); }
-      else if (a === "discard") { if (!confirm(T("confirmDiscard"))) return; this.reset(); }
+      else if (a === "new" || a === "discard") { this.asking = a; rerender(); return; }
+      else if (a === "new-yes" || a === "discard-yes") { this.asking = null; this.reset(); }
+      else if (a === "ask-cancel") { this.asking = null; rerender(); return; }
       else if (a === "round+") this.d.round += 1;
       else if (a === "round-") this.d.round = Math.max(0, this.d.round - 1);
       else if (a === "deaths+") this.d.deaths += 1;

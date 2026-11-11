@@ -3,13 +3,14 @@ import { Tables } from "./engine.js";
 import { T, lang, setLang } from "./i18n.js";
 import { ChamberView } from "./chamber.js";
 import { ReferenceView } from "./reference.js";
-import { h, keepFocus, store } from "./util.js";
+import { askButton, h, keepFocus, store } from "./util.js";
 
 const main = document.getElementById("main");
 const nav = document.getElementById("nav");
 const langs = document.getElementById("lang");
 
 let chamber, reference;
+let askingClear = false;
 
 function route() {
   const [, view = "chamber", sub = "tables"] = (location.hash || "#/chamber").split("/");
@@ -30,7 +31,7 @@ function renderLog() {
       ${x.notes ? `<p class="log-notes">${h(x.notes)}</p>` : ""}
       <p class="log-date">${h(new Date(x.at).toLocaleString(lang()))}</p>
     </li>`).join("")}</ol>
-    <div class="chamber-actions"><button type="button" class="quiet" data-action="clear-log">${h(T("logClear"))}</button></div>
+    <div class="chamber-actions">${askButton(askingClear ? "clear-log" : null, "clear-log", T("logClear"), T("confirmClear"), T("yes"), T("cancel"))}</div>
   </section>`;
 }
 
@@ -65,7 +66,11 @@ async function start() {
   chamber.bind(main, render);
   reference.bind(main, render);
   main.addEventListener("click", (ev) => {
-    if (ev.target.closest("[data-action='clear-log']") && confirm(T("confirmClear"))) {
+    const a = ev.target.closest("[data-action]")?.dataset.action;
+    if (a === "clear-log") { askingClear = true; render(); }
+    else if (a === "ask-cancel" && askingClear) { askingClear = false; render(); }
+    else if (a === "clear-log-yes") {
+      askingClear = false;
       chamber.log = [];
       store.set("bs.log", []);
       render();

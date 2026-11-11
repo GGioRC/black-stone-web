@@ -43,6 +43,9 @@ button {
 }
 button.primary { background: var(--fg); color: var(--bg); }
 button.quiet { border-color: transparent; color: var(--dim); }
+button.danger { border-color: var(--danger); background: var(--danger); color: var(--bg); }
+.ask { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.ask-q { font-weight: 600; flex: 1 1 100%; }
 button:disabled { opacity: .4; cursor: default; }
 
 /* Las siete tiradas */
