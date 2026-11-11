@@ -292,7 +292,6 @@ export function lootChildren(raw, typed, t, { prefix = "loot", directTable = nul
   title = null, mine = false } = {}) {
   const list = [];
   const queue = [];
-  const extraction = loc({ en: "Yield after a successful extraction check", es: "Cantidad tras una extracción exitosa" });
   const enqueue = (key, table, label, isMine = false) => queue.push({ key, table, title: label, mine: isMine });
   const amount = (key, formula, what) =>
     list.push(child(key, "extra", formula, what, 188, { required: false, from: "loot" }));
@@ -352,8 +351,9 @@ export function lootChildren(raw, typed, t, { prefix = "loot", directTable = nul
       else if (item.table === "4.2") amounts = countsOf(result).length ? countsOf(result) : [{ formula: new Formula(1, 4, 0), what: result }];
       else if (item.mine || item.table === "4.9") amounts = countsOf(result);
       amounts.forEach(({ formula, what }, i) =>
-        list.push(child(`${item.key}.count.${i}`, "extra", formula, item.mine ? `${extraction} · ${what}` : what,
-          t.page(item.table, n), { required: false, from: "loot" })));
+        // La cantidad de una veta sólo se tira si la extracción sale bien, ya jugando.
+        list.push(child(`${item.key}.count.${i}`, "extra", formula, what,
+          t.page(item.table, n), { required: false, from: "loot", extraction: item.mine })));
       if (item.table === "4.2" && ((n >= 19 && n <= 36) || (n >= 46 && n <= 63))) {
         list.push(child(`${item.key}.seeds.0`, "extra", new Formula(1, 4, 0), loc({ en: "Seeds", es: "Semillas" }),
           n <= 54 ? 173 : 174, { required: false, from: "loot" }));

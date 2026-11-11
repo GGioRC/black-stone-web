@@ -161,7 +161,7 @@ export class ChamberView {
     const skip = r.chamber != null && E.skipped(id, r, t);
     const fixed = skip && id === "entries" && der.entryChange === "fixed";
     const page = { last: this.mainPage(id, der) };
-    const own = kids.filter((c) => this.sectionOf(c) === id);
+    const own = kids.filter((c) => this.sectionOf(c) === id && !c.extraction);
     const fixedLines = r.chamber != null ? E.fixedExtras(der.rule).filter((e) => e.section === id) : [];
     const body = skip && !fixed ? "" : this.result(id, der);
     const derived = own.length || fixedLines.length ? this.derivedList(own, fixedLines, page) : "";
@@ -422,6 +422,7 @@ export class ChamberView {
       ${r.condition >= 60 && r.condition <= 64 && !der.conditionExcluded ? `<fieldset class="choice"><legend>${h(T("torcherTitle"))}</legend>
         <label class="choice-option"><input type="radio" name="torcher" data-choice="${E.TORCHER_TRIGGER}" value="1" ${d.typed[E.TORCHER_TRIGGER] === 1 ? "checked" : ""}> ${h(T("torcherYes"))}</label>
         <label class="choice-option"><input type="radio" name="torcher" data-choice="${E.TORCHER_TRIGGER}" value="0" ${d.typed[E.TORCHER_TRIGGER] === 0 ? "checked" : ""}> ${h(T("torcherNo"))}</label></fieldset>` : ""}
+      ${this.children().filter((c) => c.extraction).map((c) => this.extractRow(c)).join("")}
       ${live.map((x) => this.liveRow(x)).join("")}
       ${d.live.length ? `<ol class="events">${d.live.map((e) => `<li><span class="event-round">${h(T("round"))} ${e.round}</span> <span class="result-name">${h(e.text)}</span>${e.page ? ` <span class="page">${h(T("page")(e.page))}</span>` : ""}${e.note ? `<details class="roll-note"><summary>${h(T("note"))}</summary><p>${h(E.loc(e.note))}</p></details>` : ""}</li>`).join("")}</ol>` : ""}
       <form class="close-form" data-form="close">
@@ -439,6 +440,33 @@ export class ChamberView {
           <button type="button" class="quiet" data-action="discard">${h(T("discard"))}</button></div>
       </form>
     </section>`;
+  }
+
+  /** Una veta: su cantidad se tira sólo cuando la extracción sale bien, ya dentro. */
+  extractRow(c) {
+    const v = this.d.typed[c.key];
+    if (v != null) return ""; // ya anotada: queda en los sucesos
+    const raw = this.d.liveBuffers[c.key]?.total ?? "";
+    const n = E.typedValue(raw, c.formula.die);
+    const bad = String(raw).trim() !== "" && (n == null || n < c.formula.min || n > c.formula.max);
+    return `<div class="live-row extract-row">
+      <p class="derived-label">${h(T("extract")(c.of))}${c.page ? ` <span class="page">${h(T("page")(c.page))}</span>` : ""}</p>
+      <div class="live-inputs">
+        <input id="${idOf(c.key)}-x" class="derived-input${bad ? " is-invalid" : ""}" data-live="${h(c.key)}" data-part="total" type="text" inputmode="numeric" pattern="[0-9]*" autocomplete="off" value="${h(raw)}" placeholder="${h(c.formula.label)}" aria-label="${h(c.formula.label)}">
+        <button type="button" data-action="extract" data-key="${h(c.key)}">${h(T("record"))}</button>
+      </div>
+    </div>`;
+  }
+
+  recordExtract(key) {
+    const c = this.children().find((x) => x.key === key);
+    if (!c) return;
+    const n = E.typedValue(this.d.liveBuffers[key]?.total, c.formula.die);
+    if (n == null || n < c.formula.min || n > c.formula.max) return;
+    this.d.typed[key] = n;
+    this.d.live.push({ key, round: this.d.round, label: T("extract")(c.of), text: `${T("extract")(c.of)} → ${c.formula.total(n)}` });
+    delete this.d.liveBuffers[key];
+    this.save();
   }
 
   liveRow(item) {
@@ -497,6 +525,7 @@ export class ChamberView {
       else if (a === "doors-open") this.d.typed[E.DOORS] = 1;
       else if (a === "doors-close") this.d.typed[E.DOORS] = 0;
       else if (a === "live") this.recordLive(el.dataset.key);
+      else if (a === "extract") this.recordExtract(el.dataset.key);
       else return;
       this.save();
       rerender();
