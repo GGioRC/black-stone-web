@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Black Stone · The Maze</title>
-  <meta name="description" content="Ayudante gratuito para el Amo del Laberinto de The Maze: genera cámaras con tus propios dados y consulta tablas, criaturas, ítems y materiales.">
+  <meta name="description" content="Cámaras de The Maze con tus propios dados, y las tablas, criaturas, ítems y materiales del libro.">
   <meta name="theme-color" content="#111111">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
@@ -12,15 +12,12 @@
   <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
-  <a class="skip" href="#main">Saltar al contenido</a>
-  <header class="top">
-    <h1 id="title">Black Stone · The Maze</h1>
-    <p id="tagline" class="dim"></p>
-    <nav id="nav" class="nav" aria-label="Principal"></nav>
+  <header class="app-header">
+    <p class="app-name">Black Stone · The Maze</p>
+    <nav id="nav" class="app-nav" aria-label="Black Stone"></nav>
+    <div id="lang" class="lang-switch" role="group" aria-label="Idioma / Language"></div>
   </header>
-  <main id="main" tabindex="-1"></main>
-  <footer id="footer" class="foot"></footer>
-  <noscript><p>Esta página necesita JavaScript.</p></noscript>
+  <main id="main" class="app-main" tabindex="-1"></main>
   <script type="module" src="js/main.js"></script>
 </body>
 </html>

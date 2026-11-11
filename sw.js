@@ -1,6 +1,6 @@
 // Sin conexión: guarda la app entera la primera vez y la sirve desde ahí.
 // Lo nuevo llega en la siguiente visita. Sube VERSION si cambia la lista de archivos.
-const VERSION = "bs-1";
+const VERSION = "bs-2";
 const FILES = [
   "./", "index.html", "manifest.webmanifest", "css/app.css",
   "js/main.js", "js/engine.js", "js/i18n.js", "js/chamber.js", "js/reference.js", "js/util.js",

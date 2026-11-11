@@ -76,7 +76,8 @@ export const WINDOW = new Formula(1, 6, 1);
 
 const DICE = /(?:(\d+)\s*\+\s*)?(\d*)d(\d+|%)(?:\s*([+-])\s*(\d+))?/g;
 
-const tidy = (s) => s.replace(/[()&+]|\bplus\b|\band\b/g, " ").trim().replace(/\s+/g, " ");
+// Quita lo que une un dado con su nombre («plus», «and» en los bordes), no el «and» de «Gear and Tools».
+const tidy = (s) => s.replace(/[()&+]/g, " ").trim().replace(/^(plus|and)\b|\b(plus|and)$/g, "").trim().replace(/\s+/g, " ");
 
 /** Cada dado de un texto del libro con lo que cuenta. «1d6+1 Nothics» → Nothics; «Ghoul Pack (1d4+1)» → Ghoul Pack. */
 export function countsOf(text) {
@@ -173,21 +174,8 @@ export class Tables {
     const typeKey = Object.keys(file.weapons ?? {}).find((k) => k.toLowerCase() === base.toLowerCase());
     const type = typeKey ? file.weapons[typeKey] : null;
     const mat = material ? file.materials?.[material] ?? null : null;
-    return { name: raw, type, material, mat, special: file.special?.[raw] ?? null, damage: weaponDamage(type, mat) };
+    return { name: raw, type, material, mat, special: file.special?.[raw] ?? null };
   }
-}
-
-/** El daño con su material: «1d6−2», «2d6», «1d8 + 1d6». Se le suma el Físico. */
-export function weaponDamage(type, mat) {
-  const die = type?.damage;
-  if (!die) return null;
-  const f = formulaOf(die);
-  if (!f) return die;
-  const times = mat?.extra === "die" ? f.times + 1 : f.times;
-  const penalty = mat?.penalty ?? 0;
-  const base = `${times}d${f.sides}` + (penalty < 0 ? `−${-penalty}` : penalty > 0 ? `+${penalty}` : "");
-  const extra = mat?.extra;
-  return extra && extra !== "die" ? `${base} + ${extra}` : base;
 }
 
 // ---------------------------------------------------------------- las seis tiradas
@@ -417,6 +405,19 @@ function addExtra(list, key, e, page, from, typed, t) {
 
 const inRange = (n, a, b) => n != null && n >= a && n <= b;
 
+/** En qué tirada se muestra lo que añade una cámara: el botín en Botín, los enemigos en Habitantes, lo demás en Cámara. */
+export function sectionOf(kind) {
+  if (["loot", "exclusiveLoot", "ultimate"].includes(kind)) return "loot";
+  if (["inhabitant", "threat"].includes(kind)) return "inhabitant";
+  return "chamber";
+}
+
+/** Lo que la cámara trae sin tirar nada: «agua abundante», «Tears of the Gods». Va como línea fija en su tirada. */
+export function fixedExtras(rule) {
+  return (rule?.extras ?? []).filter((e) => !e.die && !e.chance && !e.repeat)
+    .map((e) => ({ of: e.of, kind: e.kind, section: sectionOf(e.kind) }));
+}
+
 /** Las filas hijas de la cámara, en orden: la ventana de la entrada y cada dado que traen los resultados. */
 export function children(r, d, t, typed = {}) {
   const list = [];
@@ -446,6 +447,7 @@ export function children(r, d, t, typed = {}) {
       const answer = typed[`chamber.extra.${dependency.id}.chance`];
       if (answer == null || !chance || chance.passes(answer)) return;
     }
+    const start = list.length;
     const parent = e.perKey ? extras.find((x) => x.id === e.perKey) : null;
     if (parent) {
       const formula = formulaOf(parent.die ?? "");
@@ -458,6 +460,10 @@ export function children(r, d, t, typed = {}) {
         }
       }
     } else addExtra(list, key, e, d.rule.page, from, typed, t);
+    for (let k = start; k < list.length; k++) {
+      list[k].section ??= sectionOf(e.kind);
+      if (e.kind === "ultimate") list[k].group = "ultimate";
+    }
   });
   const fx = d.fx;
   if (fx) {

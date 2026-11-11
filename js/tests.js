@@ -107,11 +107,6 @@ test("Magia salvaje: se tira jugando en la Tabla 3.1", () => {
   eq(E.resolveLive(live[0], { total: 7 }, t).text, t.name("3.1", 7));
 });
 
-test("Tabla 4.8: el material cambia el daño", () => {
-  const n = Object.keys(t.source("4.8").results).find((k) => /\(bone\)/i.test(t.entry("4.8", k).result));
-  if (n) ok(/−2/.test(t.weapon(+n).damage ?? ""), `hueso sin −2: ${t.weapon(+n).damage}`);
-});
-
 const ul = document.getElementById("results");
 ul.innerHTML = results.map(([name, err]) => `<li class="${err ? "err" : ""}">${err ? "✗" : "✓"} ${name}${err ? `<br><small>${err}</small>` : ""}</li>`).join("");
 const failed = results.filter((r) => r[1]).length;
